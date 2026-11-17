@@ -1,477 +1,597 @@
-player_id,player_name,team,position,Down 2+_Assist,Tied_Assist,Up 1_Goal,Up 2+_Assist,Down 1_Goal,Down 2+_Goal,Tied_Goal,Up 1_Assist,Down 1_Assist,Up 2+_Goal,total_goals,total_assists,total_points
-10561,Gleb Semenov,Alberni Valley Bulldogs,F,2,3,1,7,2,0,7,4,5,2,12,21,33
-10562,Arman Adamyan,Alberni Valley Bulldogs,F,1,7,2,5,4,2,3,3,0,4,15,16,31
-10137,Conner Radke,Okotoks Oilers,F,5,4,1,6,2,1,2,2,3,4,10,20,30
-9142,Makaio Van Tassel,Brooks Bandits,F,1,5,4,3,3,3,2,1,4,2,14,14,28
-9455,Michael Mikan,Powell River Kings,F,1,8,2,3,1,7,1,0,2,3,14,14,28
-9690,Dmitrijs Dilevka,Brooks Bandits,F,3,5,1,7,1,0,3,4,3,1,6,22,28
-8552,Tuukka Heiskanen,Powell River Kings,LW,5,4,4,2,2,0,4,1,5,0,10,17,27
-10299,Charlie Spencer,Prince George Spruce Kings,LW,3,5,0,6,0,0,2,4,2,5,7,20,27
-9504,Felix Haibock,Spruce Grove Saints,F,1,4,2,4,2,4,7,1,0,1,16,10,26
-9705,Zachary Deleau,Brooks Bandits,D,1,7,0,5,3,0,2,4,3,1,6,20,26
-10364,Emmanuel Chan,West Kelowna Warriors,RW,3,3,4,2,2,2,5,1,1,2,15,10,25
-10469,Chase Valliant,Coquitlam Express,F,1,8,3,0,5,0,3,1,3,1,12,13,25
-9846,Grady Magner,Alberni Valley Bulldogs,D,1,3,2,3,0,2,3,4,5,2,9,16,25
-8850,Ryan Wachtel,Prince George Spruce Kings,RW,0,3,4,2,2,2,4,2,0,5,17,7,24
-10261,Dmitry Pavlov,Sherwood Park Crusaders,F,7,2,1,0,3,2,3,1,1,4,13,11,24
-10353,Cash Olson,Salmon Arm Silverbacks,F,3,5,2,4,2,2,1,0,1,3,10,13,23
-9991,Max Dinneen,West Kelowna Warriors,F,0,7,2,2,0,4,2,2,2,2,10,13,23
-9805,Toms Trockis,Vernon Vipers,F,0,4,4,4,1,1,2,4,0,2,10,12,22
-8586,Cooper Faughnan,Prince George Spruce Kings,LW,0,5,2,5,1,2,1,3,0,2,8,13,21
-9695,Kamyl Chemrouk,Sherwood Park Crusaders,F,3,4,0,2,1,3,2,2,3,1,7,14,21
-10354,Alexis Beaulieu,Salmon Arm Silverbacks,LW,1,5,0,4,0,3,1,3,2,2,6,15,21
-10398,Mavrick Brunet,Sherwood Park Crusaders,F,6,7,1,1,0,3,1,0,1,1,6,15,21
-10238,Jordan Tran,Powell River Kings,F,3,6,0,3,1,1,1,3,2,1,4,17,21
-9628,Nick Bianchi,Prince George Spruce Kings,RD,2,5,1,7,0,0,3,2,1,0,4,17,21
-9130,Charles Béland,Nanaimo Clippers,F,1,1,5,0,4,0,4,2,2,1,14,6,20
-9043,Matthew Croxall,Blackfalds Bulldogs,F,1,5,2,0,1,0,5,2,0,4,12,8,20
-9510,Justin Ivanusec,Coquitlam Express,F,1,2,1,1,2,0,6,2,4,1,10,10,20
-9899,Mitch Patrick,Cranbrook Bucks,F,1,3,1,3,1,2,5,2,1,1,10,10,20
-9687,Alexei Zhukov,Brooks Bandits,LW,2,4,1,4,1,1,2,2,1,2,7,13,20
-9993,Miller Kay,Nanaimo Clippers,F,0,5,2,3,2,1,1,3,3,0,6,14,20
-10530,Roberts Polis,Trail Smoke Eaters,F,0,8,0,0,1,1,2,2,4,2,6,14,20
-10124,Justin Dumais,Chilliwack Chiefs,F,8,3,1,0,0,0,2,1,5,0,3,17,20
-10407,Dysen Drake,Trail Smoke Eaters,F,0,1,4,0,5,2,4,0,0,3,18,1,19
-9436,Michael Denney,Prince George Spruce Kings,RW,3,0,4,1,0,0,3,3,2,3,10,9,19
-10216,Christophe Lussier,Brooks Bandits,RW,1,1,2,1,0,2,2,5,2,3,9,10,19
-8199,Gryphon Watson-Bucci,Cranbrook Bucks,F,4,3,0,2,1,0,4,2,2,1,6,13,19
-9997,Koby Francis,Brooks Bandits,RW,2,1,0,3,0,0,0,4,3,6,6,13,19
-10531,Aleksandr Andriyashev,Trail Smoke Eaters,D,1,6,1,1,1,1,2,2,4,0,5,14,19
-10612,Nishaan Parmar,Coquitlam Express,F,0,3,5,0,3,1,3,0,3,0,12,6,18
-9085,Finn Kallay,Sherwood Park Crusaders,F,2,2,1,2,1,3,5,2,0,0,10,8,18
-9731,Eduard Mishikov,Alberni Valley Bulldogs,F,0,4,1,3,1,1,2,3,0,3,8,10,18
-9431,Dominic Szczygiel,Prince George Spruce Kings,LW,0,3,1,5,0,0,3,1,2,3,7,11,18
-9654,Indiana Grossbard,Nanaimo Clippers,F,1,4,1,1,0,0,0,4,4,3,4,14,18
-9616,Sam Allaby,Langley Rivermen,F,6,6,0,0,0,1,0,1,4,0,1,17,18
-9868,Teo Pisani,Cranbrook Bucks,F,0,5,2,0,3,1,2,0,1,3,11,6,17
-9010,Max Pendy,Langley Rivermen,F,2,3,1,0,5,1,2,1,1,1,10,7,17
-10533,Jeremy Leroux,Brooks Bandits,C,1,4,1,2,0,2,4,1,0,2,9,8,17
-9917,Junior Podein,Spruce Grove Saints,F,1,4,2,2,0,1,2,0,1,4,9,8,17
-9293,Michael Munroe,Coquitlam Express,F,3,1,0,0,2,3,3,0,5,0,8,9,17
-10204,Mason Kim,Vernon Vipers,F,2,1,2,4,0,0,3,3,1,1,6,11,17
-10507,Ryul Kwon,Blackfalds Bulldogs,F,0,5,2,4,0,1,1,2,0,2,6,11,17
-8967,Trace Frieden,Cowichan Valley Capitals,RW,0,6,1,3,0,1,3,0,2,1,6,11,17
-10152,Ian Kastamo,Okotoks Oilers,F,2,1,0,4,1,2,1,2,3,1,5,12,17
-9639,Levi Eiter,Victoria Grizzlies,F,1,3,1,1,2,0,2,5,2,0,5,12,17
-8970,Tommy Karmiris,Vernon Vipers,LW,0,3,2,0,1,1,3,3,1,2,9,7,16
-8882,Bryce Bryant,Cowichan Valley Capitals,F,3,3,2,0,0,2,2,0,3,1,7,9,16
-10207,Luca Pura,Vernon Vipers,F,1,2,2,2,1,0,1,4,0,3,7,9,16
-10208,Ryan Fairbairn,Vernon Vipers,D,2,5,0,1,0,1,2,1,1,3,6,10,16
-10525,Daniel Rassega,Trail Smoke Eaters,F,3,4,1,1,1,2,1,3,0,0,5,11,16
-9791,Matthew Gilmore,Cranbrook Bucks,F,2,8,1,1,1,2,0,0,1,0,4,12,16
-8470,Carter Dekay,Cowichan Valley Capitals,D,3,3,0,0,1,1,1,3,4,0,3,13,16
-9528,Casey Bridgewater,Sherwood Park Crusaders,D,5,3,0,2,0,2,0,1,3,0,2,14,16
-9942,Sam Giangualano,Langley Rivermen,F,0,3,2,1,3,3,0,1,2,0,8,7,15
-10635,Sammy Smith,Surrey Eagles,F,1,2,2,0,2,2,1,1,3,1,8,7,15
-7966,Connor Pankratz,Powell River Kings,F,3,1,0,2,2,0,2,1,1,3,7,8,15
-10440,Gabriel Courchesne,Victoria Grizzlies,F,1,4,0,1,2,0,3,2,1,1,6,9,15
-10112,Sam Thibault,Chilliwack Chiefs,F,4,3,1,0,1,2,2,1,1,0,6,9,15
-8811,Alexy Lachaine,Spruce Grove Saints,F,2,5,0,1,1,1,2,2,0,1,5,10,15
-10263,Dylan Rousselle,Sherwood Park Crusaders,D,0,4,1,3,1,1,0,2,2,1,4,11,15
-9591,Olivier Chan,West Kelowna Warriors,F,3,4,1,1,0,0,2,3,0,1,4,11,15
-8520,Cole Longacre,Salmon Arm Silverbacks,D,2,3,0,3,2,0,0,1,3,1,3,12,15
-10597,Luc Trevors,Okotoks Oilers,F,3,5,1,3,0,0,1,1,1,0,2,13,15
-10439,Joey Brehmer,Victoria Grizzlies,F,1,2,2,0,1,3,2,1,2,0,8,6,14
-10557,Josh Frenette,Langley Rivermen,C,1,1,0,1,0,3,4,0,4,0,7,7,14
-10592,Ben Trebicky,Vernon Vipers,F,0,1,1,1,0,1,1,4,2,3,6,8,14
-10584,Luke Walkauskas,Blackfalds Bulldogs,F,0,3,0,2,1,2,2,3,1,0,5,9,14
-10297,Max Mahoney,Prince George Spruce Kings,C,1,3,0,2,1,2,2,1,2,0,5,9,14
-10345,Thomas Holtby,Brooks Bandits,F,0,2,1,3,1,0,1,2,2,2,5,9,14
-10314,Raphael Messier,Cowichan Valley Capitals,F,0,5,0,0,2,0,2,2,3,0,4,10,14
-8387,Samuel Léonard,Sherwood Park Crusaders,LW,3,2,1,3,0,0,3,0,2,0,4,10,14
-8953,Max Kelly,West Kelowna Warriors,D,2,3,0,1,0,0,1,4,2,1,2,12,14
-9078,Jack McMinn,Cranbrook Bucks,D,1,5,0,2,0,0,1,3,2,0,1,13,14
-8597,Nolan Dupont,Okotoks Oilers,F,0,1,1,1,1,1,3,2,1,2,8,5,13
-10234,Grady Schaefer,Powell River Kings,F,1,1,2,1,1,1,2,1,2,1,7,6,13
-9480,Harshaan Kaila,Langley Rivermen,RW,2,2,4,0,3,0,0,1,1,0,7,6,13
-10443,William Leonard,Victoria Grizzlies,F,1,2,4,0,2,1,0,1,2,0,7,6,13
-8887,Dean Toskos,Blackfalds Bulldogs,F,1,3,2,2,0,2,1,0,1,1,6,7,13
-9699,Tristan Gravenor,Cowichan Valley Capitals,F,0,2,2,1,0,1,3,2,2,0,6,7,13
-9720,Alexandre Monarque,Brooks Bandits,LW,0,1,3,5,1,0,1,2,0,0,5,8,13
-9972,Caden Okovita,Nanaimo Clippers,F,1,2,1,1,3,0,1,2,2,0,5,8,13
-10524,Jaden Sikura,Trail Smoke Eaters,F,2,3,1,1,1,2,1,1,1,0,5,8,13
-10504,Aleksi Tuovinen,Surrey Eagles,F,3,2,1,1,0,1,2,2,1,0,4,9,13
-9389,Ben Deacon,Okotoks Oilers,F,3,2,0,1,1,0,2,2,1,1,4,9,13
-10183,Da Sol Kim,Blackfalds Bulldogs,F,0,3,0,2,1,0,2,2,2,1,4,9,13
-10126,Grant Reid,Chilliwack Chiefs,F,3,5,1,0,0,1,2,0,1,0,4,9,13
-8094,Kelsen Podworny,West Kelowna Warriors,F,1,1,1,2,1,0,2,2,3,0,4,9,13
-10346,Kieran Litterick,Alberni Valley Bulldogs,F,1,4,0,2,2,0,1,1,1,1,4,9,13
-9571,Dmitrii Nazarov,Langley Rivermen,D,3,2,0,0,0,0,3,1,4,0,3,10,13
-10363,Mstislav Shipilin,Salmon Arm Silverbacks,D,1,2,1,4,1,0,0,3,0,1,3,10,13
-10523,Ty Izadi,Trail Smoke Eaters,F,1,7,1,1,1,0,1,1,0,0,3,10,13
-9457,Joseph Gugino,Powell River Kings,D,2,2,0,3,0,1,1,1,3,0,2,11,13
-9574,Gleb Semenko,Cowichan Valley Capitals,F,0,1,1,0,1,2,3,2,1,1,8,4,12
-10209,Jed Lake,Vernon Vipers,F,0,2,1,1,1,3,0,1,0,3,8,4,12
-10008,Markuss Sieradzkis,Chilliwack Chiefs,RW,2,3,1,0,1,1,3,1,0,0,6,6,12
-8940,Antoine Gauthier,Blackfalds Bulldogs,F,3,0,1,3,0,0,3,0,1,1,5,7,12
-8775,Mason Loewen,Prince George Spruce Kings,LW,2,3,3,1,0,0,1,0,1,1,5,7,12
-8915,Elliot Perreault,Nanaimo Clippers,F,0,2,0,2,1,0,3,2,2,0,4,8,12
-9826,Hugo Daniel,Victoria Grizzlies,F,0,4,0,0,2,0,1,2,2,1,4,8,12
-8761,Slade Firkus,Cowichan Valley Capitals,F,3,3,0,1,2,1,0,1,1,0,3,9,12
-10221,Evan Schulha,Vernon Vipers,D,1,2,0,2,1,0,1,3,2,0,2,10,12
-9471,Radoslav Dimitrov,Alberni Valley Bulldogs,D,2,3,0,3,0,0,0,3,1,0,0,12,12
-10352,Ethan Facchina,Salmon Arm Silverbacks,C,3,1,1,0,0,2,2,0,1,1,6,5,11
-10256,Mason Wright,Sherwood Park Crusaders,F,1,1,2,1,0,1,1,1,1,2,6,5,11
-9814,Cole Bieksa,Vernon Vipers,F,0,1,1,4,0,0,2,0,1,2,5,6,11
-10250,Josh Denes,Vernon Vipers,F,1,3,2,2,1,0,2,0,0,0,5,6,11
-9688,Michael Kucherawy,Brooks Bandits,LW,2,1,1,2,0,0,4,1,0,0,5,6,11
-10138,Ty Ross,Cranbrook Bucks,F,1,2,1,1,1,1,1,0,2,1,5,6,11
-9552,Jared Rothman,Salmon Arm Silverbacks,F,2,0,1,2,1,0,2,1,2,0,4,7,11
-8964,Brett Barnes,Spruce Grove Saints,D,1,0,0,4,2,0,1,2,1,0,3,8,11
-9778,Jeff Niehaus,Okotoks Oilers,F,3,1,0,2,0,2,1,0,2,0,3,8,11
-10322,Jacob Hamel,Spruce Grove Saints,D,6,2,0,1,0,0,0,1,1,0,0,11,11
-10319,Roan Burgess,Cowichan Valley Capitals,F,0,2,2,0,0,2,4,0,0,0,8,2,10
-10025,Drew Roelofs,Nanaimo Clippers,F,0,2,2,0,1,1,3,0,1,0,7,3,10
-8881,Nathan Simm,Cranbrook Bucks,F,2,1,1,0,1,1,3,0,0,1,7,3,10
-8751,Vital Dinis,Salmon Arm Silverbacks,LW,0,2,3,1,0,3,1,0,0,0,7,3,10
-8797,Cohen Carter,Okotoks Oilers,D,1,1,1,1,0,1,0,1,1,3,5,5,10
-10155,Domenico Clarizio,Okotoks Oilers,F,2,0,3,2,0,0,1,1,0,1,5,5,10
-9590,Jace Rask,West Kelowna Warriors,F,0,1,2,2,2,0,1,1,1,0,5,5,10
-10273,Lucas Achim,Spruce Grove Saints,F,1,1,1,0,1,1,2,0,3,0,5,5,10
-9419,Maddox Gandha,Trail Smoke Eaters,F,2,3,2,0,1,0,2,0,0,0,5,5,10
-8808,Nicholas DiPaolo,Blackfalds Bulldogs,F,0,1,0,1,1,0,2,2,1,2,5,5,10
-8856,Marek Beaudoin,Okotoks Oilers,F,1,2,0,1,0,1,2,2,0,1,4,6,10
-8803,Maxime Ly,Alberni Valley Bulldogs,F,1,1,1,2,0,0,2,0,2,1,4,6,10
-10212,Alexander Eklὀf,Vernon Vipers,F,2,0,0,4,0,0,2,0,1,1,3,7,10
-10254,Loik Leduc,Surrey Eagles,F,1,2,0,0,0,2,1,3,1,0,3,7,10
-10536,Evan Gradt,Victoria Grizzlies,F,1,3,1,0,0,0,0,1,3,1,2,8,10
-7859,Carter Matthews,Blackfalds Bulldogs,D,2,4,0,1,0,0,0,1,1,1,1,9,10
-9880,Colton Whitfield,Trail Smoke Eaters,D,0,5,0,0,0,1,0,2,2,0,1,9,10
-10347,Quinn Kipfer,Salmon Arm Silverbacks,C,2,3,0,1,0,0,1,2,1,0,1,9,10
-9129,Shane Purves,Coquitlam Express,F,1,3,0,1,1,0,0,3,1,0,1,9,10
-8122,Jamie Hikida,Okotoks Oilers,F,1,0,1,1,1,2,1,0,1,1,6,3,9
-10560,Brady Kudrna,Alberni Valley Bulldogs,F,1,3,3,0,0,1,0,0,1,0,4,5,9
-8795,Brec Christenson,Powell River Kings,F,1,2,0,0,2,1,1,1,1,0,4,5,9
-8785,Brendyn Van Oene,Coquitlam Express,F,0,1,0,0,0,1,2,1,3,1,4,5,9
-9702,Hunter Yanick,Sherwood Park Crusaders,F,0,0,0,1,2,0,2,2,2,0,4,5,9
-8777,Jackson Ernst,Powell River Kings,F,0,1,0,1,0,0,2,1,2,2,4,5,9
-9430,Mathis Laplante,Surrey Eagles,F,2,3,1,0,1,0,2,0,0,0,4,5,9
-9689,Havryil Simchuk,Cowichan Valley Capitals,F,1,1,1,1,1,0,1,1,2,0,3,6,9
-9897,Jack Toogood,Salmon Arm Silverbacks,F,3,0,1,0,0,0,2,3,0,0,3,6,9
-10239,Jackson Schaefer,Powell River Kings,D,2,1,1,1,1,0,1,0,2,0,3,6,9
-10211,Van Martin,Vernon Vipers,F,0,2,0,2,2,1,0,2,0,0,3,6,9
-10205,Will Johnson,Vernon Vipers,F,1,2,0,3,0,0,1,0,0,2,3,6,9
-10448,Alex Hendry,Victoria Grizzlies,D,0,3,1,2,0,0,1,0,2,0,2,7,9
-10648,Jessey Venturo,Sherwood Park Crusaders,LW,3,2,0,1,1,0,0,0,1,1,2,7,9
-9584,Joseph Sinclair,Brooks Bandits,F,2,2,0,2,0,0,1,1,1,0,1,8,9
-10615,Ben Davis,Sherwood Park Crusaders,F,1,1,0,1,2,1,0,0,0,2,5,3,8
-10302,Rhett Tubello,Prince George Spruce Kings,RW,0,1,2,1,2,0,0,1,0,1,5,3,8
-9596,Daxton Endicott,West Kelowna Warriors,F,1,1,1,1,1,0,0,0,1,2,4,4,8
-9583,Mikhail Mishin,Langley Rivermen,F,1,1,1,0,0,0,1,2,0,2,4,4,8
-10027,Rylan Hue,Brooks Bandits,F,0,3,1,0,1,0,2,1,0,0,4,4,8
-9874,Aaron Zulinick,Vernon Vipers,D,2,3,0,0,0,1,1,0,0,1,3,5,8
-9018,Denis Kuzmenkov,Blackfalds Bulldogs,F,1,1,1,3,1,0,1,0,0,0,3,5,8
-8977,Kole Keen,Cowichan Valley Capitals,F,2,2,0,0,1,0,2,1,0,0,3,5,8
-9502,Scott Sandilands,Spruce Grove Saints,F,1,1,0,2,2,0,0,0,1,1,3,5,8
-10298,Trent Gates,Prince George Spruce Kings,RW,1,1,0,2,1,1,1,1,0,0,3,5,8
-9927,Andrew Cowgill,Cowichan Valley Capitals,D,2,2,0,0,2,0,0,1,1,0,2,6,8
-9816,Asher Lucas,Surrey Eagles,F,1,1,0,0,1,1,0,3,1,0,2,6,8
-10375,Gavin Bartha,West Kelowna Warriors,D,0,4,0,0,0,0,1,1,1,1,2,6,8
-10200,Kristers Obuks,Chilliwack Chiefs,F,1,3,0,0,1,1,0,1,1,0,2,6,8
-9629,Luke Pilkington,Chilliwack Chiefs,D,3,1,0,0,0,1,1,0,2,0,2,6,8
-10303,Noah Franzina,Prince George Spruce Kings,LW,1,0,1,3,0,0,1,1,1,0,2,6,8
-10369,Pavel Goryachev,West Kelowna Warriors,LW,1,1,0,1,1,0,1,1,2,0,2,6,8
-10636,Teague Vader,Surrey Eagles,D,0,2,0,0,0,1,1,3,1,0,2,6,8
-10517,Trey Fredenberg,Okotoks Oilers,F,2,0,0,0,0,0,1,1,3,1,2,6,8
-10368,Joe Marchi,West Kelowna Warriors,RW,1,1,0,2,0,0,1,1,2,0,1,7,8
-9998,John Kelly,West Kelowna Warriors,D,0,1,0,1,0,1,0,3,2,0,1,7,8
-10315,Kayden Turner,Cowichan Valley Capitals,F,1,4,0,2,0,0,0,0,0,1,1,7,8
-10445,Peter Ziak,Victoria Grizzlies,F,0,2,1,1,0,0,0,2,2,0,1,7,8
-10305,Anders Foyn Roen,Prince George Spruce Kings,LD,0,3,0,0,0,0,0,5,0,0,0,8,8
-8072,Kalan Anderlini,Surrey Eagles,D,2,2,0,0,0,0,0,1,3,0,0,8,8
-10008,Markuss Sieradzkis,Chilliwack Chiefs,F,0,0,0,0,3,4,0,0,0,0,7,0,7
-9153,Tyler Chiovetti,Coquitlam Express,F,0,2,2,0,1,1,0,0,0,1,5,2,7
-10564,Tyson Schamehorn,Victoria Grizzlies,F,0,0,0,1,1,0,3,1,0,1,5,2,7
-8301,Brayden Rotach,Trail Smoke Eaters,F,0,0,0,0,1,2,1,2,1,0,4,3,7
-9697,Owen Fitzgerald,Surrey Eagles,F,0,1,2,1,1,0,1,0,1,0,4,3,7
-10416,Erik Larson,Trail Smoke Eaters,D,3,1,0,0,0,0,3,0,0,0,3,4,7
-8977,Kole Keen,Surrey Eagles,F,2,2,0,0,1,1,1,0,0,0,3,4,7
-9609,Konnor Bissell,Cranbrook Bucks,F,0,0,0,1,0,1,2,2,1,0,3,4,7
-10267,Lucas Cilan,Spruce Grove Saints,F,2,0,2,1,0,0,0,0,1,1,3,4,7
-10252,Ludovik Gauvin,Surrey Eagles,D,1,2,0,0,1,0,2,0,1,0,3,4,7
-10249,Mykolas Skadauskas,Vernon Vipers,F,1,2,2,0,0,0,1,1,0,0,3,4,7
-9747,Nicolas Addy,Langley Rivermen,F,1,2,0,0,0,1,2,0,1,0,3,4,7
-9205,Oscar Björk,Vernon Vipers,D,0,2,0,0,0,0,2,1,1,1,3,4,7
-10271,Patrick Woods,Spruce Grove Saints,F,0,4,0,0,1,1,1,0,0,0,3,4,7
-9474,Caden Stoltz,Trail Smoke Eaters,F,1,1,1,1,0,0,1,2,0,0,2,5,7
-10556,Cohen Massey,Langley Rivermen,D,0,2,0,0,0,2,0,0,3,0,2,5,7
-8913,Hudson Gill,Nanaimo Clippers,D,0,5,1,0,1,0,0,0,0,0,2,5,7
-10142,James Larson,Cranbrook Bucks,F,0,3,1,0,0,1,0,1,1,0,2,5,7
-10453,Mike Cuesta Flores,Victoria Grizzlies,D,1,1,1,0,0,0,1,2,1,0,2,5,7
-9163,Patrick Fortune,Nanaimo Clippers,F,0,2,0,2,0,0,1,0,1,1,2,5,7
-10424,Tim-Kristian Lukkarinen,Trail Smoke Eaters,F,2,2,1,0,0,0,1,0,1,0,2,5,7
-10272,Gavin McNeil,Spruce Grove Saints,F,1,1,0,0,0,1,0,1,3,0,1,6,7
-10148,Mykola Kosarev,Cranbrook Bucks,D,0,2,0,1,1,0,0,2,1,0,1,6,7
-10599,Trevor O'Dell,Alberni Valley Bulldogs,D,0,1,0,3,0,0,0,2,0,1,1,6,7
-10393,Jager Gugyelka,Coquitlam Express,D,1,4,0,0,0,0,0,1,1,0,0,7,7
-10114,Rhett Owen,Chilliwack Chiefs,F,2,1,0,0,0,0,0,2,2,0,0,7,7
-10483,Kilian Alves Pereira,Alberni Valley Bulldogs,F,1,1,1,0,0,0,2,0,1,0,3,3,6
-10335,Leon Gerber,Brooks Bandits,LD,0,1,1,0,1,0,0,0,2,1,3,3,6
-10252,Ludovik Gauvin,Cowichan Valley Capitals,D,1,0,0,1,1,0,1,1,0,1,3,3,6
-8123,Matthew Hikida,Okotoks Oilers,F,1,0,0,1,2,0,1,1,0,0,3,3,6
-9707,Michal Marsalek,Brooks Bandits,D,0,1,1,1,1,0,0,0,1,1,3,3,6
-8745,Owen Leckelt,Spruce Grove Saints,F,1,0,0,1,1,1,0,0,1,1,3,3,6
-10593,Colten Worthington,Surrey Eagles,F,0,2,0,0,0,1,1,1,1,0,2,4,6
-10650,Connor Hillig,Surrey Eagles,F,1,1,2,0,0,0,0,2,0,0,2,4,6
-9994,Jackson Gillespie,Victoria Grizzlies,D,0,1,1,0,0,0,0,1,2,1,2,4,6
-10482,Ricards Rutkis,Alberni Valley Bulldogs,F,0,2,1,1,0,1,0,1,0,0,2,4,6
-10154,William St James,Nanaimo Clippers,D,0,1,1,1,0,0,1,0,2,0,2,4,6
-10558,Zachary Carrier,Nanaimo Clippers,F,0,2,0,0,0,0,1,1,1,1,2,4,6
-10002,Gabriel Anctil,Cowichan Valley Capitals,D,1,3,1,1,0,0,0,0,0,0,1,5,6
-9945,Thomas Putnam,Langley Rivermen,F,2,1,0,0,0,0,0,2,0,1,1,5,6
-9276,Krists Retenais,Langley Rivermen,D,1,0,0,1,0,0,0,1,3,0,0,6,6
-10044,Noah Smith,Prince George Spruce Kings,RD,0,2,0,2,0,0,0,1,1,0,0,6,6
-9916,Ted Welander,Trail Smoke Eaters,D,2,1,0,1,0,0,0,1,1,0,0,6,6
-9119,Brayden Gourley,Cranbrook Bucks,F,1,0,1,1,0,0,2,0,0,0,3,2,5
-10644,CJ Watroba,Cranbrook Bucks,F,0,1,1,0,0,0,1,0,1,1,3,2,5
-10578,Chaz Lentz,West Kelowna Warriors,F,1,0,1,0,2,0,0,0,1,0,3,2,5
-10230,Deegan Hoffbauer,Powell River Kings,D,1,1,0,0,1,1,1,0,0,0,3,2,5
-10304,Ethan Stewart,Prince George Spruce Kings,RW,0,2,0,0,1,1,1,0,0,0,3,2,5
-9530,Koen Senft,Salmon Arm Silverbacks,F,1,1,0,0,0,2,1,0,0,0,3,2,5
-9468,Krisjanis Sarts,Blackfalds Bulldogs,D,0,1,2,1,0,0,1,0,0,0,3,2,5
-10016,Max Anderson,Sherwood Park Crusaders,F,0,2,0,0,0,2,1,0,0,0,3,2,5
-9649,Owen Warnick,Victoria Grizzlies,F,0,1,0,0,0,0,2,1,0,1,3,2,5
-9640,Parker MacDougall,Victoria Grizzlies,F,0,1,0,0,1,1,1,0,1,0,3,2,5
-9903,Paul Wiczek,Surrey Eagles,F,1,1,0,0,1,0,2,0,0,0,3,2,5
-10586,Roghan Walker,Langley Rivermen,RW,1,0,0,1,1,1,1,0,0,0,3,2,5
-10298,Trent Gates,Trail Smoke Eaters,RW,0,1,0,0,1,0,2,1,0,0,3,2,5
-10157,Will Watson,Okotoks Oilers,F,1,0,0,0,1,1,1,1,0,0,3,2,5
-10253,Brendan Finley,Cowichan Valley Capitals,F,1,2,0,0,1,0,1,0,0,0,2,3,5
-10018,Chase Nehring,Trail Smoke Eaters,F,1,0,1,0,0,0,1,1,1,0,2,3,5
-10296,Cristian Achim,Prince George Spruce Kings,LD,0,2,0,0,1,0,0,1,0,1,2,3,5
-10610,Daniel Morozov,Coquitlam Express,F,2,0,0,0,0,1,1,0,1,0,2,3,5
-9461,Ethan Anderson,Okotoks Oilers,D,0,1,0,0,1,0,1,2,0,0,2,3,5
-9426,Fraser Leonard,Okotoks Oilers,D,0,3,0,0,0,1,0,0,0,1,2,3,5
-9062,Grayson Salmon,Alberni Valley Bulldogs,F,2,0,0,0,1,0,0,1,0,1,2,3,5
-10559,Matthew Ross,Nanaimo Clippers,F,0,2,0,0,0,0,1,1,0,1,2,3,5
-10590,Nathan Gray,Langley Rivermen,D,1,1,1,0,0,0,1,1,0,0,2,3,5
-9434,Ben Vreugdenhil,Prince George Spruce Kings,C,0,1,0,1,0,0,1,1,1,0,1,4,5
-9536,Brady Logue,Salmon Arm Silverbacks,F,1,1,0,1,0,0,1,1,0,0,1,4,5
-10582,CJ Watson,West Kelowna Warriors,D,1,2,0,1,1,0,0,0,0,0,1,4,5
-10255,Charles-Albert Pouliot,Sherwood Park Crusaders,F,2,0,0,0,1,0,0,0,2,0,1,4,5
-10049,Eli Molde,Okotoks Oilers,F,0,1,0,0,0,1,0,1,2,0,1,4,5
-10514,Ethan Sautner,Powell River Kings,F,1,1,0,0,0,0,1,1,1,0,1,4,5
-8776,Gabriel Kenny,Spruce Grove Saints,D,1,2,0,0,0,1,0,0,1,0,1,4,5
-10639,Igor Silchenko,Coquitlam Express,F,0,1,0,1,0,0,1,1,1,0,1,4,5
-9545,John Lumsden,Cowichan Valley Capitals,D,1,1,0,2,0,0,1,0,0,0,1,4,5
-8005,Kaslo Ferner,Cranbrook Bucks,F,0,1,0,0,1,0,0,2,1,0,1,4,5
-9195,Nathan Hillmann,Coquitlam Express,D,1,1,0,1,1,0,0,1,0,0,1,4,5
-10535,Sander Molde,Victoria Grizzlies,D,1,1,0,0,0,0,1,2,0,0,1,4,5
-10260,Torretto Marrelli,Sherwood Park Crusaders,F,2,0,0,1,0,0,1,0,1,0,1,4,5
-10463,Trey Hinton,West Kelowna Warriors,F,0,1,0,2,0,1,0,0,1,0,1,4,5
-10633,Zachary Spurgeon,Brooks Bandits,D,0,0,1,3,0,0,0,0,1,0,1,4,5
-9964,Benedetto-Antonio Masi,Powell River Kings,LW,0,2,0,1,0,0,0,1,1,0,0,5,5
-7970,Brayden Pankey,Vernon Vipers,D,2,2,0,1,0,0,0,0,0,0,0,5,5
-9629,Luke Pilkington,Chilliwack Chiefs,RD,1,3,0,0,0,0,0,0,1,0,0,5,5
-9077,Tristan Payne,Coquitlam Express,D,1,2,0,0,0,0,0,1,1,0,0,5,5
-10122,Brady Keith,Chilliwack Chiefs,F,0,0,0,0,1,1,2,0,0,0,4,0,4
-9499,Brady Witkin,Surrey Eagles,F,0,0,1,0,2,1,0,0,0,0,4,0,4
-9936,Danny Buckley,Surrey Eagles,F,0,0,2,0,0,0,2,0,0,0,4,0,4
-10043,Adam Crosby,Prince George Spruce Kings,C,1,0,0,0,0,1,2,0,0,0,3,1,4
-10484,Andrea Meunier,Alberni Valley Bulldogs,F,0,0,0,1,0,1,0,0,0,2,3,1,4
-10047,Chase Campbell,Salmon Arm Silverbacks,F,1,0,0,0,0,1,1,0,0,1,3,1,4
-10669,Cooper Ludwar,Chilliwack Chiefs,F,0,0,0,0,0,2,1,0,1,0,3,1,4
-9397,Leim Smith,Alberni Valley Bulldogs,C,0,0,1,1,1,0,0,0,0,1,3,1,4
-8070,Adam Boatter,Chilliwack Chiefs,D,0,2,0,0,1,0,1,0,0,0,2,2,4
-10125,Caden Cail,Chilliwack Chiefs,F,1,0,0,1,0,1,0,0,0,1,2,2,4
-10629,Caden Lindsay,Okotoks Oilers,F,0,0,1,0,0,1,0,2,0,0,2,2,4
-9787,Easton Schlender,Sherwood Park Crusaders,F,0,0,0,1,0,2,0,0,1,0,2,2,4
-10341,Jacob Bultje,Brooks Bandits,F,0,1,0,0,0,0,0,0,1,2,2,2,4
-8770,Jeremy Friesen,Langley Rivermen,D,1,0,0,0,0,1,1,1,0,0,2,2,4
-10254,Loik Leduc,Cowichan Valley Capitals,F,0,0,0,0,0,0,1,1,1,1,2,2,4
-10486,Malte Barthold,Alberni Valley Bulldogs,F,0,0,0,1,0,0,2,1,0,0,2,2,4
-9813,Tyler Russell,Okotoks Oilers,D,1,0,1,1,0,1,0,0,0,0,2,2,4
-7995,Cale Colwell,Langley Rivermen,F,0,0,1,1,0,0,0,1,1,0,1,3,4
-10554,Carl-Otto Magnusson,Nanaimo Clippers,D,0,1,0,0,0,0,1,0,2,0,1,3,4
-10481,Drew Bowe,Alberni Valley Bulldogs,F,1,1,0,0,0,0,1,0,1,0,1,3,4
-8455,Dryden Kuramoto,Surrey Eagles,F,0,0,0,1,0,0,1,1,1,0,1,3,4
-9456,Henry Sampair,Okotoks Oilers,D,0,1,0,2,0,1,0,0,0,0,1,3,4
-9812,James Odyniec,Coquitlam Express,D,1,1,0,0,0,0,1,0,1,0,1,3,4
-10673,Kaeson Fisher,Spruce Grove Saints,D,1,0,0,2,0,0,0,0,0,1,1,3,4
-9924,Lazarus Ebanoidze,Sherwood Park Crusaders,D,1,0,0,1,0,0,0,1,0,1,1,3,4
-8957,London Taylor,Spruce Grove Saints,F,2,0,0,1,0,0,0,0,0,1,1,3,4
-10139,Lucas Husted-Edwards,Cranbrook Bucks,F,1,0,0,0,1,0,0,2,0,0,1,3,4
-10241,Martin Cerny,Vernon Vipers,D,0,1,0,2,0,0,1,0,0,0,1,3,4
-10441,Matthew Dowdall,Victoria Grizzlies,F,0,0,0,1,0,0,1,2,0,0,1,3,4
-10468,Pherson Loehndorf,Nanaimo Clippers,D,0,1,0,0,0,0,0,2,0,1,1,3,4
-9970,Ryan George,Alberni Valley Bulldogs,D,1,2,0,0,0,1,0,0,0,0,1,3,4
-10153,Tristin Wassengeso,Okotoks Oilers,F,1,0,0,2,0,1,0,0,0,0,1,3,4
-10414,Wade Gallamore,Trail Smoke Eaters,D,1,1,0,0,0,1,0,0,1,0,1,3,4
-9976,Avery Johnson,Coquitlam Express,F,2,1,0,0,0,0,0,0,1,0,0,4,4
-9732,Brendan DeFeo,Alberni Valley Bulldogs,F,0,1,0,0,0,0,0,2,1,0,0,4,4
-10064,Curtis Freeman,Cowichan Valley Capitals,F,1,2,0,0,0,0,0,1,0,0,0,4,4
-10598,Devin Smith,Cranbrook Bucks,D,0,2,0,1,0,0,0,0,1,0,0,4,4
-10063,Henry Kress,Blackfalds Bulldogs,F,1,0,0,1,0,0,0,1,1,0,0,4,4
-10176,Jacob Guille,Okotoks Oilers,D,1,2,0,0,0,0,0,0,1,0,0,4,4
-10089,John Crawford,Blackfalds Bulldogs,D,0,3,0,0,0,0,0,0,1,0,0,4,4
-7992,Landon Cowper,Langley Rivermen,D,1,2,0,0,0,0,0,1,0,0,0,4,4
-9931,Liam Magnuson,Cranbrook Bucks,D,0,4,0,0,0,0,0,0,0,0,0,4,4
-10516,Luke Bogart,Powell River Kings,D,0,2,0,0,0,0,0,2,0,0,0,4,4
-10262,Michael Zuyev,Spruce Grove Saints,D,1,1,0,0,0,0,0,1,1,0,0,4,4
-9124,Sam Osei,Sherwood Park Crusaders,D,0,0,0,1,0,0,0,1,2,0,0,4,4
-10609,Sebastian Miles,Coquitlam Express,D,0,2,0,0,0,0,0,2,0,0,0,4,4
-10009,Wassim Rabbath,Alberni Valley Bulldogs,D,0,2,0,1,0,0,0,0,1,0,0,4,4
-10198,Jack Clark,Nanaimo Clippers,F,0,0,1,0,1,0,1,0,0,0,3,0,3
-10506,Leon Bjelkelöv-Brunn,Blackfalds Bulldogs,F,0,0,1,0,0,1,1,0,0,0,3,0,3
-8563,Adam Perron,Spruce Grove Saints,F,0,0,0,0,1,1,0,1,0,0,2,1,3
-10583,Kainoah Brankovic,Chilliwack Chiefs,D,0,0,1,0,0,0,0,0,1,1,2,1,3
-8754,Max LeDuc,Blackfalds Bulldogs,F,0,1,0,0,1,1,0,0,0,0,2,1,3
-10666,Rim Giniyatullin,Alberni Valley Bulldogs,F,0,1,1,0,0,0,1,0,0,0,2,1,3
-10120,Tate Hanson,Chilliwack Chiefs,F,0,1,1,0,1,0,0,0,0,0,2,1,3
-9793,Ty Krooshoop,Chilliwack Chiefs,D,1,0,1,0,0,1,0,0,0,0,2,1,3
-10686,Brady Turner,Spruce Grove Saints,F,0,0,0,0,0,0,0,2,0,1,1,2,3
-10349,Cohen Hoening,Salmon Arm Silverbacks,F,1,1,0,0,0,0,0,0,0,1,1,2,3
-10300,Daniel Podvalov,Prince George Spruce Kings,RW,0,0,0,1,0,0,0,1,0,1,1,2,3
-10657,Dylan Ruff,Victoria Grizzlies,F,0,1,1,1,0,0,0,0,0,0,1,2,3
-9464,Harout Arutyunyan,Langley Rivermen,F,0,0,1,0,0,0,0,2,0,0,1,2,3
-10235,Isaiah Shantz,Powell River Kings,F,1,0,0,0,0,1,0,0,1,0,1,2,3
-7639,Jake Westhaver,Langley Rivermen,RD,0,1,1,0,0,0,0,1,0,0,1,2,3
-9772,Jeremy Poirier,Cranbrook Bucks,D,0,0,0,1,0,0,1,0,1,0,1,2,3
-7555,Joven Brar,Surrey Eagles,D,0,2,0,0,0,0,1,0,0,0,1,2,3
-8748,Kohyn Pipke,Blackfalds Bulldogs,D,0,1,0,0,0,0,0,0,1,1,1,2,3
-7701,Liam Loughery,Surrey Eagles,D,0,0,0,0,0,0,1,0,2,0,1,2,3
-10196,Logan Wilson,Sherwood Park Crusaders,F,0,0,0,2,0,0,0,0,0,1,1,2,3
-10273,Lucas Achim,Coquitlam Express,F,0,0,0,0,1,0,0,1,1,0,1,2,3
-9794,Mark Konstantinov,Powell River Kings,D,1,0,0,0,0,0,1,1,0,0,1,2,3
-10528,Max Schaller,Trail Smoke Eaters,F,0,1,0,0,0,0,1,1,0,0,1,2,3
-10465,Noah Caswell,Nanaimo Clippers,D,0,1,0,0,0,0,1,1,0,0,1,2,3
-10285,Sean Robins,Surrey Eagles,F,0,2,1,0,0,0,0,0,0,0,1,2,3
-9304,Vincent Croteau,Prince George Spruce Kings,LD,1,1,0,0,0,0,1,0,0,0,1,2,3
-10442,Anthony Roy,Victoria Grizzlies,F,0,2,0,0,0,0,0,1,0,0,0,3,3
-10334,Anton Shkolny,Sherwood Park Crusaders,D,1,2,0,0,0,0,0,0,0,0,0,3,3
-10213,Bobo Tyche,Brooks Bandits,D,0,2,0,1,0,0,0,0,0,0,0,3,3
-9957,Braeyen Newans,Alberni Valley Bulldogs,D,1,1,0,1,0,0,0,0,0,0,0,3,3
-10638,Cash Lanigan,Spruce Grove Saints,F,0,0,0,2,0,0,0,0,1,0,0,3,3
-9888,Casper Lang,Cowichan Valley Capitals,D,0,1,0,0,0,0,0,1,1,0,0,3,3
-8889,Evan Cook,Surrey Eagles,F,0,1,0,0,0,0,0,1,1,0,0,3,3
-10432,Gavin Karl,Blackfalds Bulldogs,D,0,1,0,1,0,0,0,1,0,0,0,3,3
-10222,Isaac Suh,Brooks Bandits,D,0,1,0,1,0,0,0,1,0,0,0,3,3
-10681,Jackson Arango,Spruce Grove Saints,D,0,0,0,1,0,0,0,1,1,0,0,3,3
-7740,Kenyon McIsaac,Cowichan Valley Capitals,D,0,1,0,0,0,0,0,1,1,0,0,3,3
-8748,Kohyn Pipke,Spruce Grove Saints,D,0,1,0,0,0,0,0,1,1,0,0,3,3
-10597,Luc Trevors,Cranbrook Bucks,F,1,1,0,0,0,0,0,1,0,0,0,3,3
-10316,Mack Blue,Cowichan Valley Capitals,F,1,2,0,0,0,0,0,0,0,0,0,3,3
-10613,Marek Schlenker,NA,NA,0,0,0,1,0,0,0,1,1,0,0,3,3
-9827,Max Davidson,Prince George Spruce Kings,RD,1,0,0,1,0,0,0,0,1,0,0,3,3
-9066,Milan Mrsic,Chilliwack Chiefs,F,1,1,0,0,0,0,0,1,0,0,0,3,3
-10269,Richard Krnac,Spruce Grove Saints,F,1,0,0,0,0,0,0,1,1,0,0,3,3
-10246,Roman Lavery,Vernon Vipers,F,0,0,0,2,0,0,0,1,0,0,0,3,3
-10338,Samuel Lussier,Brooks Bandits,F,1,0,0,2,0,0,0,0,0,0,0,3,3
-9483,Bradley Schmidt,Coquitlam Express,RW,0,0,0,0,0,1,1,0,0,0,2,0,2
-9012,Shaenen Long,Coquitlam Express,F,0,0,0,0,1,1,0,0,0,0,2,0,2
-10344,Tomas Racz,Brooks Bandits,F,0,0,1,0,0,0,0,0,0,1,2,0,2
-9793,Ty Krooshoop,Chilliwack Chiefs,RD,0,0,0,0,1,0,1,0,0,0,2,0,2
-9920,Artem Akhmadullin,Blackfalds Bulldogs,F,0,0,0,1,0,0,0,0,0,1,1,1,2
-8487,Brandon Osborne,Chilliwack Chiefs,LD,0,1,0,0,0,0,1,0,0,0,1,1,2
-10389,Christian Revel,Coquitlam Express,F,0,1,1,0,0,0,0,0,0,0,1,1,2
-9574,Gleb Semenko,Surrey Eagles,F,0,0,0,0,0,0,0,1,0,1,1,1,2
-10109,Hudson Deren,Chilliwack Chiefs,F,0,0,0,1,0,0,1,0,0,0,1,1,2
-10198,Jack Clark,Surrey Eagles,F,0,1,0,0,1,0,0,0,0,0,1,1,2
-10130,Jack Mccullough,Chilliwack Chiefs,D,1,0,0,0,0,0,1,0,0,0,1,1,2
-10130,Jack Mccullough,Sherwood Park Crusaders,D,0,0,0,0,0,0,0,0,1,1,1,1,2
-7639,Jake Westhaver,Powell River Kings,RD,1,0,0,0,1,0,0,0,0,0,1,1,2
-9873,Jordan Murray,Okotoks Oilers,D,0,1,1,0,0,0,0,0,0,0,1,1,2
-10376,Kylen Martens,West Kelowna Warriors,D,0,1,0,0,0,0,0,0,0,1,1,1,2
-8368,Landon Pue,Powell River Kings,F,0,0,0,1,0,0,1,0,0,0,1,1,2
-10661,Lucas Teixeira,Blackfalds Bulldogs,F,0,0,1,0,0,0,0,1,0,0,1,1,2
-9042,Luciano Bruno,West Kelowna Warriors,F,0,0,0,0,0,0,1,0,1,0,1,1,2
-9467,Magnuss Avotins,Blackfalds Bulldogs,F,1,0,0,0,0,0,0,0,0,1,1,1,2
-9066,Milan Mrsic,Chilliwack Chiefs,LW,0,0,1,1,0,0,0,0,0,0,1,1,2
-10679,Peter Murray,Chilliwack Chiefs,F,0,0,0,0,0,0,1,0,1,0,1,1,2
-10450,Ryland Molde,Victoria Grizzlies,D,0,1,0,0,0,0,1,0,0,0,1,1,2
-9968,Shane Tronoski,Cranbrook Bucks,F,0,1,1,0,0,0,0,0,0,0,1,1,2
-10534,Shayle Simons,Blackfalds Bulldogs,D,1,0,0,0,0,1,0,0,0,0,1,1,2
-9999,Victor Morrissette-Richer,Langley Rivermen,LW,0,0,0,0,0,0,1,1,0,0,1,1,2
-10630,Aaron Murphy,Okotoks Oilers,D,0,2,0,0,0,0,0,0,0,0,0,2,2
-10361,Antonio Cazac,Salmon Arm Silverbacks,F,2,0,0,0,0,0,0,0,0,0,0,2,2
-10488,Bogdan Rogushkin,Alberni Valley Bulldogs,F,0,1,0,0,0,0,0,1,0,0,0,2,2
-9483,Bradley Schmidt,Langley Rivermen,RW,1,0,0,1,0,0,0,0,0,0,0,2,2
-9603,Cadel Gourlay,Cranbrook Bucks,D,1,0,0,0,0,0,0,1,0,0,0,2,2
-10210,Cole Ellis,Vernon Vipers,D,0,1,0,0,0,0,0,1,0,0,0,2,2
-10654,Dylan Hurren,Powell River Kings,D,1,0,0,1,0,0,0,0,0,0,0,2,2
-8943,Evan Stastny,Surrey Eagles,D,0,0,0,0,0,0,0,0,2,0,0,2,2
-10430,Jeppe Bertram,Spruce Grove Saints,D,0,1,0,0,0,0,0,0,1,0,0,2,2
-10687,Josh Zitzman,Spruce Grove Saints,D,1,0,0,1,0,0,0,0,0,0,0,2,2
-8891,Junsu Kwak,Langley Rivermen,F,1,1,0,0,0,0,0,0,0,0,0,2,2
-10356,Logan Keup,Salmon Arm Silverbacks,D,1,1,0,0,0,0,0,0,0,0,0,2,2
-10510,Max Kramer,Cowichan Valley Capitals,D,0,0,0,0,0,0,0,0,2,0,0,2,2
-10466,Murray Kanerva,Nanaimo Clippers,D,0,0,0,0,0,0,0,2,0,0,0,2,2
-10684,Sean Short,Cowichan Valley Capitals,D,0,1,0,0,0,0,0,1,0,0,0,2,2
-8959,Tate O'Brien,Salmon Arm Silverbacks,RD,1,0,0,0,0,0,0,1,0,0,0,2,2
-10181,Tate Swanson,Nanaimo Clippers,F,0,1,0,1,0,0,0,0,0,0,0,2,2
-10017,Tyler Greene,Trail Smoke Eaters,F,0,0,0,0,0,0,0,0,2,0,0,2,2
-10437,Barrett Fogolin,Cowichan Valley Capitals,D,0,0,0,0,0,1,0,0,0,0,1,0,1
-10147,Cole Willard,Cranbrook Bucks,D,0,0,0,0,0,0,1,0,0,0,1,0,1
-10261,Dmitry Pavlov,Sherwood Park Crusaders,LW,0,0,0,0,0,1,0,0,0,0,1,0,1
-9390,Grady Gustafson,Okotoks Oilers,F,0,0,0,0,0,0,0,0,0,1,1,0,1
-10546,Jacob Lèonard,Victoria Grizzlies,D,0,0,0,0,0,0,1,0,0,0,1,0,1
-8770,Jeremy Friesen,Powell River Kings,D,0,0,0,0,1,0,0,0,0,0,1,0,1
-10088,John Kartsonakis,Blackfalds Bulldogs,F,0,0,0,0,0,1,0,0,0,0,1,0,1
-10579,Kaidan Sahajpal,West Kelowna Warriors,F,0,0,0,0,0,0,1,0,0,0,1,0,1
-10642,Kallen Ray,Trail Smoke Eaters,D,0,0,0,0,0,0,1,0,0,0,1,0,1
-10123,Kannon Taylor,Chilliwack Chiefs,F,0,0,0,0,0,0,0,0,0,1,1,0,1
-9493,Lucas Knorr,Coquitlam Express,F,0,0,0,0,1,0,0,0,0,0,1,0,1
-10651,Max Ludwar,West Kelowna Warriors,D,0,0,0,0,0,1,0,0,0,0,1,0,1
-9652,Michael Dowdall,Victoria Grizzlies,F,0,0,0,0,0,0,1,0,0,0,1,0,1
-10674,Nathan Birch,Blackfalds Bulldogs,D,0,0,0,0,0,0,1,0,0,0,1,0,1
-10274,Owen Cronan,Spruce Grove Saints,F,0,0,0,0,0,1,0,0,0,0,1,0,1
-10683,Ryder Tanner,Langley Rivermen,LW,0,0,0,0,0,1,0,0,0,0,1,0,1
-10447,Tobiáš Vitek,Victoria Grizzlies,F,0,0,1,0,0,0,0,0,0,0,1,0,1
-10017,Tyler Greene,Langley Rivermen,F,0,0,1,0,0,0,0,0,0,0,1,0,1
-10174,Alex Curti,Brooks Bandits,D,0,1,0,0,0,0,0,0,0,0,0,1,1
-10569,Arseni Vorobyov,Sherwood Park Crusaders,F,0,1,0,0,0,0,0,0,0,0,0,1,1
-10301,Asher Netherton,NA,NA,0,0,0,1,0,0,0,0,0,0,0,1,1
-10412,Ben Albers,Cowichan Valley Capitals,D,0,1,0,0,0,0,0,0,0,0,0,1,1
-10427,Blake Kiley-Ram,Blackfalds Bulldogs,F,0,0,0,0,0,0,0,1,0,0,0,1,1
-10656,Brady Krey,NA,NA,0,1,0,0,0,0,0,0,0,0,0,1,1
-7995,Cale Colwell,Powell River Kings,F,0,1,0,0,0,0,0,0,0,0,0,1,1
-8470,Carter Dekay,Cowichan Valley Capitals,LD,0,1,0,0,0,0,0,0,0,0,0,1,1
-10373,Carter Rebman,West Kelowna Warriors,D,0,0,0,1,0,0,0,0,0,0,0,1,1
-10614,Chance Burlison,Sherwood Park Crusaders,F,0,1,0,0,0,0,0,0,0,0,0,1,1
-10608,Charles-Antoine Girard,NA,NA,0,0,0,0,0,0,0,0,1,0,0,1,1
-9904,Cody Arnold,NA,NA,0,1,0,0,0,0,0,0,0,0,0,1,1
-10670,Cohen Handby,Vernon Vipers,F,0,1,0,0,0,0,0,0,0,0,0,1,1
-10259,Colten Scott,NA,NA,0,1,0,0,0,0,0,0,0,0,0,1,1
-10158,Daniel Tverdovsky,Nanaimo Clippers,D,1,0,0,0,0,0,0,0,0,0,0,1,1
-9488,Derik Brouillard,NA,NA,0,0,0,0,0,0,0,1,0,0,0,1,1
-9578,Filip Vavro,NA,NA,0,0,0,0,0,0,0,1,0,0,0,1,1
-10381,Freeman Butler,Langley Rivermen,D,0,0,0,0,0,0,0,1,0,0,0,1,1
-10090,Hampus Vandenberg,Alberni Valley Bulldogs,D,0,1,0,0,0,0,0,0,0,0,0,1,1
-10090,Hampus Vandenberg,Blackfalds Bulldogs,D,0,0,0,1,0,0,0,0,0,0,0,1,1
-10585,Herberts Laugalis,Blackfalds Bulldogs,D,0,0,0,0,0,0,0,1,0,0,0,1,1
-9034,Hunter Ashton,Coquitlam Express,D,0,1,0,0,0,0,0,0,0,0,0,1,1
-10496,Ivan Kastelan,NA,NA,0,0,0,1,0,0,0,0,0,0,0,1,1
-10383,Jacob Nelson,Langley Rivermen,D,1,0,0,0,0,0,0,0,0,0,0,1,1
-9872,Jason Tremblay,NA,NA,0,0,0,1,0,0,0,0,0,0,0,1,1
-10430,Jeppe Bertram,Blackfalds Bulldogs,D,0,0,0,0,0,0,0,0,1,0,0,1,1
-10678,Joe Mense,Coquitlam Express,D,1,0,0,0,0,0,0,0,0,0,0,1,1
-8821,Joseph Quintilio,NA,NA,0,0,0,0,0,0,0,0,1,0,0,1,1
-10240,Jude Martin,Vernon Vipers,D,0,0,0,1,0,0,0,0,0,0,0,1,1
-10645,Julian Revel,Coquitlam Express,D,0,1,0,0,0,0,0,0,0,0,0,1,1
-10379,Karsen Chartier,NA,NA,0,1,0,0,0,0,0,0,0,0,0,1,1
-10591,Kason Kobelka,NA,NA,0,0,0,0,0,0,0,1,0,0,0,1,1
-8960,Kyle Mayenburg,Powell River Kings,LD,0,0,0,0,0,0,0,0,1,0,0,1,1
-10457,Landon Poe,Victoria Grizzlies,D,0,1,0,0,0,0,0,0,0,0,0,1,1
-9544,Luca DeCubellis,Salmon Arm Silverbacks,D,0,0,0,0,0,0,0,1,0,0,0,1,1
-10366,Luke Isaacs,West Kelowna Warriors,LW,0,1,0,0,0,0,0,0,0,0,0,1,1
-8856,Marek Beaudoin,Powell River Kings,F,0,1,0,0,0,0,0,0,0,0,0,1,1
-9020,Matson Waring,Surrey Eagles,D,1,0,0,0,0,0,0,0,0,0,0,1,1
-10595,Matthew Wong,NA,NA,0,1,0,0,0,0,0,0,0,0,0,1,1
-10464,Max Finley,Chilliwack Chiefs,F,0,0,0,0,0,0,0,0,1,0,0,1,1
-9525,Max Reed,Prince George Spruce Kings,LD,0,1,0,0,0,0,0,0,0,0,0,1,1
-10634,Max Sullivan,Chilliwack Chiefs,F,0,0,0,0,0,0,0,1,0,0,0,1,1
-8091,Morgan Hackman,Nanaimo Clippers,F,0,1,0,0,0,0,0,0,0,0,0,1,1
-10284,Nico McDonald,Surrey Eagles,F,1,0,0,0,0,0,0,0,0,0,0,1,1
-10682,Nikita Voiaga,Alberni Valley Bulldogs,D,0,1,0,0,0,0,0,0,0,0,0,1,1
-9580,Olivér Király,NA,NA,1,0,0,0,0,0,0,0,0,0,0,1,1
-10404,Patrick McSharry,Trail Smoke Eaters,F,0,1,0,0,0,0,0,0,0,0,0,1,1
-8068,Ryder Green,NA,NA,0,1,0,0,0,0,0,0,0,0,0,1,1
-10247,Samuel DiBlasi,NA,NA,0,0,0,0,0,0,0,1,0,0,0,1,1
-8387,Samuel Léonard,Sherwood Park Crusaders,F,0,1,0,0,0,0,0,0,0,0,0,1,1
-10637,Sutton Verot,Blackfalds Bulldogs,F,1,0,0,0,0,0,0,0,0,0,0,1,1
-9615,Teghan Mullin,Cranbrook Bucks,F,0,0,0,0,0,0,0,0,1,0,0,1,1
-8055,Trevor Oishi,Coquitlam Express,D,0,0,0,0,0,0,0,0,1,0,0,1,1
-10529,Trey Tourigny,Trail Smoke Eaters,F,0,0,0,0,0,0,0,1,0,0,0,1,1
-9712,Tripp Reynolds,Cowichan Valley Capitals,D,1,0,0,0,0,0,0,0,0,0,0,1,1
-10492,Ture Anund,Alberni Valley Bulldogs,D,0,1,0,0,0,0,0,0,0,0,0,1,1
-10023,William McKay,Powell River Kings,RW,0,1,0,0,0,0,0,0,0,0,0,1,1
+player_id,player_name,team,position,games_played,Down 2+_Assist,Tied_Assist,Up 1_Goal,Up 2+_Assist,Down 1_Goal,Down 2+_Goal,Tied_Goal,Up 1_Assist,Down 1_Assist,Up 2+_Goal,total_goals,total_assists,total_points,points_per_game
+10561,Gleb Semenov,Alberni Valley Bulldogs,F,20,2,3,1,7,2,0,7,4,5,2,12,21,33,1.65
+10562,Arman Adamyan,Alberni Valley Bulldogs,F,20,1,7,2,5,4,2,3,3,0,4,15,16,31,1.55
+10137,Conner Radke,Okotoks Oilers,F,19,5,4,1,6,2,1,2,2,3,4,10,20,30,1.5789473684210527
+9142,Makaio Van Tassel,Brooks Bandits,F,19,1,5,4,3,3,3,2,1,4,2,14,14,28,1.4736842105263157
+9455,Michael Mikan,Powell River Kings,F,20,1,8,2,3,1,7,1,0,2,3,14,14,28,1.4
+9690,Dmitrijs Dilevka,Brooks Bandits,F,19,3,5,1,7,1,0,3,4,3,1,6,22,28,1.4736842105263157
+8552,Tuukka Heiskanen,Powell River Kings,LW,20,5,4,4,2,2,0,4,1,5,0,10,17,27,1.35
+10299,Charlie Spencer,Prince George Spruce Kings,LW,15,3,5,0,6,0,0,2,4,2,5,7,20,27,1.8
+9504,Felix Haibock,Spruce Grove Saints,F,19,1,4,2,4,2,4,7,1,0,1,16,10,26,1.368421052631579
+9705,Zachary Deleau,Brooks Bandits,D,18,1,7,0,5,3,0,2,4,3,1,6,20,26,1.4444444444444444
+10364,Emmanuel Chan,West Kelowna Warriors,RW,18,3,3,4,2,2,2,5,1,1,2,15,10,25,1.3888888888888888
+10261,Dmitry Pavlov,Sherwood Park Crusaders,F,17,7,2,1,0,3,3,3,1,1,4,14,11,25,1.4705882352941178
+10261,Dmitry Pavlov,Sherwood Park Crusaders,LW,1,7,2,1,0,3,3,3,1,1,4,14,11,25,25
+10469,Chase Valliant,Coquitlam Express,F,17,1,8,3,0,5,0,3,1,3,1,12,13,25,1.4705882352941178
+9846,Grady Magner,Alberni Valley Bulldogs,D,20,1,3,2,3,0,2,3,4,5,2,9,16,25,1.25
+8850,Ryan Wachtel,Prince George Spruce Kings,RW,20,0,3,4,2,2,2,4,2,0,5,17,7,24,1.2
+10353,Cash Olson,Salmon Arm Silverbacks,F,18,3,5,2,4,2,2,1,0,1,3,10,13,23,1.2777777777777777
+9991,Max Dinneen,West Kelowna Warriors,F,18,0,7,2,2,0,4,2,2,2,2,10,13,23,1.2777777777777777
+9805,Toms Trockis,Vernon Vipers,F,20,0,4,4,4,1,1,2,4,0,2,10,12,22,1.1
+8586,Cooper Faughnan,Prince George Spruce Kings,LW,20,0,5,2,5,1,2,1,3,0,2,8,13,21,1.05
+9695,Kamyl Chemrouk,Sherwood Park Crusaders,F,17,3,4,0,2,1,3,2,2,3,1,7,14,21,1.2352941176470589
+9695,Kamyl Chemrouk,Sherwood Park Crusaders,RW,1,3,4,0,2,1,3,2,2,3,1,7,14,21,21
+10354,Alexis Beaulieu,Salmon Arm Silverbacks,LW,19,1,5,0,4,0,3,1,3,2,2,6,15,21,1.105263157894737
+10398,Mavrick Brunet,Sherwood Park Crusaders,C,1,6,7,1,1,0,3,1,0,1,1,6,15,21,21
+10398,Mavrick Brunet,Sherwood Park Crusaders,F,17,6,7,1,1,0,3,1,0,1,1,6,15,21,1.2352941176470589
+10238,Jordan Tran,Powell River Kings,F,20,3,6,0,3,1,1,1,3,2,1,4,17,21,1.05
+9628,Nick Bianchi,Prince George Spruce Kings,RD,20,2,5,1,7,0,0,3,2,1,0,4,17,21,1.05
+9130,Charles Béland,Nanaimo Clippers,F,19,1,1,5,0,4,0,4,2,2,1,14,6,20,1.0526315789473684
+9043,Matthew Croxall,Blackfalds Bulldogs,F,18,1,5,2,0,1,0,5,2,0,4,12,8,20,1.1111111111111112
+9510,Justin Ivanusec,Coquitlam Express,F,16,1,2,1,1,2,0,6,2,4,1,10,10,20,1.25
+9899,Mitch Patrick,Cranbrook Bucks,F,20,1,3,1,3,1,2,5,2,1,1,10,10,20,1
+9687,Alexei Zhukov,Brooks Bandits,LW,18,2,4,1,4,1,1,2,2,1,2,7,13,20,1.1111111111111112
+9993,Miller Kay,Nanaimo Clippers,F,18,0,5,2,3,2,1,1,3,3,0,6,14,20,1.1111111111111112
+10530,Roberts Polis,Trail Smoke Eaters,F,20,0,8,0,0,1,1,2,2,4,2,6,14,20,1
+10124,Justin Dumais,Chilliwack Chiefs,F,20,8,3,1,0,0,0,2,1,5,0,3,17,20,1
+10407,Dysen Drake,Trail Smoke Eaters,F,20,0,1,4,0,5,2,4,0,0,3,18,1,19,0.95
+10008,Markuss Sieradzkis,Chilliwack Chiefs,F,10,2,3,1,0,4,5,3,1,0,0,13,6,19,1.9
+10008,Markuss Sieradzkis,Chilliwack Chiefs,RW,10,2,3,1,0,4,5,3,1,0,0,13,6,19,1.9
+9436,Michael Denney,Prince George Spruce Kings,RW,19,3,0,4,1,0,0,3,3,2,3,10,9,19,1
+10216,Christophe Lussier,Brooks Bandits,RW,19,1,1,2,1,0,2,2,5,2,3,9,10,19,1
+8199,Gryphon Watson-Bucci,Cranbrook Bucks,F,20,4,3,0,2,1,0,4,2,2,1,6,13,19,0.95
+9997,Koby Francis,Brooks Bandits,RW,14,2,1,0,3,0,0,0,4,3,6,6,13,19,1.3571428571428572
+10531,Aleksandr Andriyashev,Trail Smoke Eaters,D,20,1,6,1,1,1,1,2,2,4,0,5,14,19,0.95
+10612,Nishaan Parmar,Coquitlam Express,F,16,0,3,5,0,3,1,3,0,3,0,12,6,18,1.125
+9085,Finn Kallay,Sherwood Park Crusaders,C,1,2,2,1,2,1,3,5,2,0,0,10,8,18,18
+9085,Finn Kallay,Sherwood Park Crusaders,F,17,2,2,1,2,1,3,5,2,0,0,10,8,18,1.0588235294117647
+9731,Eduard Mishikov,Alberni Valley Bulldogs,F,14,0,4,1,3,1,1,2,3,0,3,8,10,18,1.2857142857142858
+9431,Dominic Szczygiel,Prince George Spruce Kings,LW,20,0,3,1,5,0,0,3,1,2,3,7,11,18,0.9
+9654,Indiana Grossbard,Nanaimo Clippers,F,19,1,4,1,1,0,0,0,4,4,3,4,14,18,0.9473684210526315
+10597,Luc Trevors,Cranbrook Bucks,F,4,4,6,1,3,0,0,1,2,1,0,2,16,18,4.5
+10597,Luc Trevors,Okotoks Oilers,F,14,4,6,1,3,0,0,1,2,1,0,2,16,18,1.2857142857142858
+9616,Sam Allaby,Langley Rivermen,F,19,6,6,0,0,0,1,0,1,4,0,1,17,18,0.9473684210526315
+9868,Teo Pisani,Cranbrook Bucks,F,19,0,5,2,0,3,1,2,0,1,3,11,6,17,0.8947368421052632
+9010,Max Pendy,Langley Rivermen,F,17,2,3,1,0,5,1,2,1,1,1,10,7,17,1
+10533,Jeremy Leroux,Brooks Bandits,C,17,1,4,1,2,0,2,4,1,0,2,9,8,17,1
+9917,Junior Podein,Spruce Grove Saints,F,19,1,4,2,2,0,1,2,0,1,4,9,8,17,0.8947368421052632
+9293,Michael Munroe,Coquitlam Express,F,17,3,1,0,0,2,3,3,0,5,0,8,9,17,1
+10204,Mason Kim,Vernon Vipers,F,20,2,1,2,4,0,0,3,3,1,1,6,11,17,0.85
+10507,Ryul Kwon,Blackfalds Bulldogs,F,11,0,5,2,4,0,1,1,2,0,2,6,11,17,1.5454545454545454
+8967,Trace Frieden,Cowichan Valley Capitals,RW,20,0,6,1,3,0,1,3,0,2,1,6,11,17,0.85
+10152,Ian Kastamo,Okotoks Oilers,F,19,2,1,0,4,1,2,1,2,3,1,5,12,17,0.8947368421052632
+9639,Levi Eiter,Victoria Grizzlies,F,16,1,3,1,1,2,0,2,5,2,0,5,12,17,1.0625
+8470,Carter Dekay,Cowichan Valley Capitals,D,18,3,4,0,0,1,1,1,3,4,0,3,14,17,0.9444444444444444
+8470,Carter Dekay,Cowichan Valley Capitals,LD,2,3,4,0,0,1,1,1,3,4,0,3,14,17,8.5
+8970,Tommy Karmiris,Vernon Vipers,LW,18,0,3,2,0,1,1,3,3,1,2,9,7,16,0.8888888888888888
+8882,Bryce Bryant,Cowichan Valley Capitals,F,19,3,3,2,0,0,2,2,0,3,1,7,9,16,0.8421052631578947
+10207,Luca Pura,Vernon Vipers,F,20,1,2,2,2,1,0,1,4,0,3,7,9,16,0.8
+10208,Ryan Fairbairn,Vernon Vipers,D,20,2,5,0,1,0,1,2,1,1,3,6,10,16,0.8
+10525,Daniel Rassega,Trail Smoke Eaters,F,20,3,4,1,1,1,2,1,3,0,0,5,11,16,0.8
+9791,Matthew Gilmore,Cranbrook Bucks,F,19,2,8,1,1,1,2,0,0,1,0,4,12,16,0.8421052631578947
+9528,Casey Bridgewater,Sherwood Park Crusaders,D,17,5,3,0,2,0,2,0,1,3,0,2,14,16,0.9411764705882353
+9528,Casey Bridgewater,Sherwood Park Crusaders,LD,1,5,3,0,2,0,2,0,1,3,0,2,14,16,16
+9942,Sam Giangualano,Langley Rivermen,F,19,0,3,2,1,3,3,0,1,2,0,8,7,15,0.7894736842105263
+10635,Sammy Smith,Surrey Eagles,F,19,1,2,2,0,2,2,1,1,3,1,8,7,15,0.7894736842105263
+7966,Connor Pankratz,Powell River Kings,F,18,3,1,0,2,2,0,2,1,1,3,7,8,15,0.8333333333333334
+10440,Gabriel Courchesne,Victoria Grizzlies,F,18,1,4,0,1,2,0,3,2,1,1,6,9,15,0.8333333333333334
+8977,Kole Keen,Cowichan Valley Capitals,F,13,4,4,0,0,2,1,3,1,0,0,6,9,15,1.1538461538461537
+8977,Kole Keen,Surrey Eagles,F,7,4,4,0,0,2,1,3,1,0,0,6,9,15,2.142857142857143
+10112,Sam Thibault,Chilliwack Chiefs,F,19,4,3,1,0,1,2,2,1,1,0,6,9,15,0.7894736842105263
+8811,Alexy Lachaine,Spruce Grove Saints,F,18,2,5,0,1,1,1,2,2,0,1,5,10,15,0.8333333333333334
+10263,Dylan Rousselle,Sherwood Park Crusaders,D,17,0,4,1,3,1,1,0,2,2,1,4,11,15,0.8823529411764706
+10263,Dylan Rousselle,Sherwood Park Crusaders,LD,1,0,4,1,3,1,1,0,2,2,1,4,11,15,15
+9591,Olivier Chan,West Kelowna Warriors,F,11,3,4,1,1,0,0,2,3,0,1,4,11,15,1.3636363636363635
+8387,Samuel Léonard,Sherwood Park Crusaders,F,1,3,3,1,3,0,0,3,0,2,0,4,11,15,15
+8387,Samuel Léonard,Sherwood Park Crusaders,LW,17,3,3,1,3,0,0,3,0,2,0,4,11,15,0.8823529411764706
+8520,Cole Longacre,Salmon Arm Silverbacks,D,19,2,3,0,3,2,0,0,1,3,1,3,12,15,0.7894736842105263
+9574,Gleb Semenko,Cowichan Valley Capitals,F,13,0,1,1,0,1,2,3,3,1,2,9,5,14,1.0769230769230769
+9574,Gleb Semenko,Surrey Eagles,F,7,0,1,1,0,1,2,3,3,1,2,9,5,14,2
+10439,Joey Brehmer,Victoria Grizzlies,F,18,1,2,2,0,1,3,2,1,2,0,8,6,14,0.7777777777777778
+10557,Josh Frenette,Langley Rivermen,C,18,1,1,0,1,0,3,4,0,4,0,7,7,14,0.7777777777777778
+10592,Ben Trebicky,Vernon Vipers,F,18,0,1,1,1,0,1,1,4,2,3,6,8,14,0.7777777777777778
+10254,Loik Leduc,Cowichan Valley Capitals,F,6,1,2,0,0,0,2,2,4,2,1,5,9,14,2.3333333333333335
+10254,Loik Leduc,Surrey Eagles,F,14,1,2,0,0,0,2,2,4,2,1,5,9,14,1
+10584,Luke Walkauskas,Blackfalds Bulldogs,F,18,0,3,0,2,1,2,2,3,1,0,5,9,14,0.7777777777777778
+10297,Max Mahoney,Prince George Spruce Kings,C,20,1,3,0,2,1,2,2,1,2,0,5,9,14,0.7
+10345,Thomas Holtby,Brooks Bandits,F,19,0,2,1,3,1,0,1,2,2,2,5,9,14,0.7368421052631579
+10314,Raphael Messier,Cowichan Valley Capitals,F,20,0,5,0,0,2,0,2,2,3,0,4,10,14,0.7
+8953,Max Kelly,West Kelowna Warriors,D,18,2,3,0,1,0,0,1,4,2,1,2,12,14,0.7777777777777778
+9078,Jack McMinn,Cranbrook Bucks,D,14,1,5,0,2,0,0,1,3,2,0,1,13,14,1
+8597,Nolan Dupont,Okotoks Oilers,F,11,0,1,1,1,1,1,3,2,1,2,8,5,13,1.1818181818181819
+10234,Grady Schaefer,Powell River Kings,F,20,1,1,2,1,1,1,2,1,2,1,7,6,13,0.65
+9480,Harshaan Kaila,Langley Rivermen,RW,18,2,2,4,0,3,0,0,1,1,0,7,6,13,0.7222222222222222
+10443,William Leonard,Victoria Grizzlies,F,18,1,2,4,0,2,1,0,1,2,0,7,6,13,0.7222222222222222
+8887,Dean Toskos,Blackfalds Bulldogs,F,18,1,3,2,2,0,2,1,0,1,1,6,7,13,0.7222222222222222
+10273,Lucas Achim,Coquitlam Express,F,2,1,1,1,0,2,1,2,1,4,0,6,7,13,6.5
+10273,Lucas Achim,Spruce Grove Saints,F,17,1,1,1,0,2,1,2,1,4,0,6,7,13,0.7647058823529411
+10252,Ludovik Gauvin,Cowichan Valley Capitals,D,7,2,2,0,1,2,0,3,1,1,1,6,7,13,1.8571428571428572
+10252,Ludovik Gauvin,Surrey Eagles,D,13,2,2,0,1,2,0,3,1,1,1,6,7,13,1
+10298,Trent Gates,Prince George Spruce Kings,RW,15,1,2,0,2,2,1,3,2,0,0,6,7,13,0.8666666666666667
+10298,Trent Gates,Trail Smoke Eaters,RW,5,1,2,0,2,2,1,3,2,0,0,6,7,13,2.6
+9699,Tristan Gravenor,Cowichan Valley Capitals,F,20,0,2,2,1,0,1,3,2,2,0,6,7,13,0.65
+9720,Alexandre Monarque,Brooks Bandits,LW,19,0,1,3,5,1,0,1,2,0,0,5,8,13,0.6842105263157895
+9972,Caden Okovita,Nanaimo Clippers,F,19,1,2,1,1,3,0,1,2,2,0,5,8,13,0.6842105263157895
+10524,Jaden Sikura,Trail Smoke Eaters,F,19,2,3,1,1,1,2,1,1,1,0,5,8,13,0.6842105263157895
+10504,Aleksi Tuovinen,Surrey Eagles,F,21,3,2,1,1,0,1,2,2,1,0,4,9,13,0.6190476190476191
+9389,Ben Deacon,Okotoks Oilers,F,19,3,2,0,1,1,0,2,2,1,1,4,9,13,0.6842105263157895
+10183,Da Sol Kim,Blackfalds Bulldogs,F,10,0,3,0,2,1,0,2,2,2,1,4,9,13,1.3
+10126,Grant Reid,Chilliwack Chiefs,F,17,3,5,1,0,0,1,2,0,1,0,4,9,13,0.7647058823529411
+8094,Kelsen Podworny,West Kelowna Warriors,F,18,1,1,1,2,1,0,2,2,3,0,4,9,13,0.7222222222222222
+10346,Kieran Litterick,Alberni Valley Bulldogs,F,20,1,4,0,2,2,0,1,1,1,1,4,9,13,0.65
+9571,Dmitrii Nazarov,Langley Rivermen,D,19,3,2,0,0,0,0,3,1,4,0,3,10,13,0.6842105263157895
+10363,Mstislav Shipilin,Salmon Arm Silverbacks,D,19,1,2,1,4,1,0,0,3,0,1,3,10,13,0.6842105263157895
+10523,Ty Izadi,Trail Smoke Eaters,F,20,1,7,1,1,1,0,1,1,0,0,3,10,13,0.65
+9457,Joseph Gugino,Powell River Kings,D,20,2,2,0,3,0,1,1,1,3,0,2,11,13,0.65
+9629,Luke Pilkington,Chilliwack Chiefs,D,10,4,4,0,0,0,1,1,0,3,0,2,11,13,1.3
+9629,Luke Pilkington,Chilliwack Chiefs,RD,10,4,4,0,0,0,1,1,0,3,0,2,11,13,1.3
+10209,Jed Lake,Vernon Vipers,F,20,0,2,1,1,1,3,0,1,0,3,8,4,12,0.6
+8940,Antoine Gauthier,Blackfalds Bulldogs,F,18,3,0,1,3,0,0,3,0,1,1,5,7,12,0.6666666666666666
+8775,Mason Loewen,Prince George Spruce Kings,LW,15,2,3,3,1,0,0,1,0,1,1,5,7,12,0.8
+8915,Elliot Perreault,Nanaimo Clippers,F,19,0,2,0,2,1,0,3,2,2,0,4,8,12,0.631578947368421
+9826,Hugo Daniel,Victoria Grizzlies,F,10,0,4,0,0,2,0,1,2,2,1,4,8,12,1.2
+8761,Slade Firkus,Cowichan Valley Capitals,F,20,3,3,0,1,2,1,0,1,1,0,3,9,12,0.6
+10221,Evan Schulha,Vernon Vipers,D,20,1,2,0,2,1,0,1,3,2,0,2,10,12,0.6
+9471,Radoslav Dimitrov,Alberni Valley Bulldogs,D,20,2,3,0,3,0,0,0,3,1,0,0,12,12,0.6
+10352,Ethan Facchina,Salmon Arm Silverbacks,C,19,3,1,1,0,0,2,2,0,1,1,6,5,11,0.5789473684210527
+10256,Mason Wright,Sherwood Park Crusaders,C,1,1,1,2,1,0,1,1,1,1,2,6,5,11,11
+10256,Mason Wright,Sherwood Park Crusaders,F,17,1,1,2,1,0,1,1,1,1,2,6,5,11,0.6470588235294118
+9814,Cole Bieksa,Vernon Vipers,F,19,0,1,1,4,0,0,2,0,1,2,5,6,11,0.5789473684210527
+10250,Josh Denes,Vernon Vipers,F,20,1,3,2,2,1,0,2,0,0,0,5,6,11,0.55
+9688,Michael Kucherawy,Brooks Bandits,LW,19,2,1,1,2,0,0,4,1,0,0,5,6,11,0.5789473684210527
+10138,Ty Ross,Cranbrook Bucks,F,20,1,2,1,1,1,1,1,0,2,1,5,6,11,0.55
+9552,Jared Rothman,Salmon Arm Silverbacks,F,19,2,0,1,2,1,0,2,1,2,0,4,7,11,0.5789473684210527
+8856,Marek Beaudoin,Okotoks Oilers,F,13,1,3,0,1,0,1,2,2,0,1,4,7,11,0.8461538461538461
+8856,Marek Beaudoin,Powell River Kings,F,4,1,3,0,1,0,1,2,2,0,1,4,7,11,2.75
+8964,Brett Barnes,Spruce Grove Saints,D,19,1,0,0,4,2,0,1,2,1,0,3,8,11,0.5789473684210527
+9778,Jeff Niehaus,Okotoks Oilers,F,19,3,1,0,2,0,2,1,0,2,0,3,8,11,0.5789473684210527
+10322,Jacob Hamel,Spruce Grove Saints,D,18,6,2,0,1,0,0,0,1,1,0,0,11,11,0.6111111111111112
+10319,Roan Burgess,Cowichan Valley Capitals,F,19,0,2,2,0,0,2,4,0,0,0,8,2,10,0.5263157894736842
+10025,Drew Roelofs,Nanaimo Clippers,F,19,0,2,2,0,1,1,3,0,1,0,7,3,10,0.5263157894736842
+8881,Nathan Simm,Cranbrook Bucks,F,20,2,1,1,0,1,1,3,0,0,1,7,3,10,0.5
+8751,Vital Dinis,Salmon Arm Silverbacks,LW,18,0,2,3,1,0,3,1,0,0,0,7,3,10,0.5555555555555556
+8797,Cohen Carter,Okotoks Oilers,D,18,1,1,1,1,0,1,0,1,1,3,5,5,10,0.5555555555555556
+10155,Domenico Clarizio,Okotoks Oilers,F,16,2,0,3,2,0,0,1,1,0,1,5,5,10,0.625
+9590,Jace Rask,West Kelowna Warriors,F,15,0,1,2,2,2,0,1,1,1,0,5,5,10,0.6666666666666666
+9419,Maddox Gandha,Trail Smoke Eaters,F,20,2,3,2,0,1,0,2,0,0,0,5,5,10,0.5
+8808,Nicholas DiPaolo,Blackfalds Bulldogs,F,8,0,1,0,1,1,0,2,2,1,2,5,5,10,1.25
+8803,Maxime Ly,Alberni Valley Bulldogs,F,20,1,1,1,2,0,0,2,0,2,1,4,6,10,0.5
+10212,Alexander Eklὀf,Vernon Vipers,F,20,2,0,0,4,0,0,2,0,1,1,3,7,10,0.5
+10536,Evan Gradt,Victoria Grizzlies,F,15,1,3,1,0,0,0,0,1,3,1,2,8,10,0.6666666666666666
+7859,Carter Matthews,Blackfalds Bulldogs,D,17,2,4,0,1,0,0,0,1,1,1,1,9,10,0.5882352941176471
+9880,Colton Whitfield,Trail Smoke Eaters,D,20,0,5,0,0,0,1,0,2,2,0,1,9,10,0.5
+10347,Quinn Kipfer,Salmon Arm Silverbacks,C,19,2,3,0,1,0,0,1,2,1,0,1,9,10,0.5263157894736842
+9129,Shane Purves,Coquitlam Express,F,16,1,3,0,1,1,0,0,3,1,0,1,9,10,0.625
+8122,Jamie Hikida,Okotoks Oilers,F,10,1,0,1,1,1,2,1,0,1,1,6,3,9,0.9
+10560,Brady Kudrna,Alberni Valley Bulldogs,F,19,1,3,3,0,0,1,0,0,1,0,4,5,9,0.47368421052631576
+8795,Brec Christenson,Powell River Kings,F,18,1,2,0,0,2,1,1,1,1,0,4,5,9,0.5
+8785,Brendyn Van Oene,Coquitlam Express,F,17,0,1,0,0,0,1,2,1,3,1,4,5,9,0.5294117647058824
+9702,Hunter Yanick,Sherwood Park Crusaders,F,16,0,0,0,1,2,0,2,2,2,0,4,5,9,0.5625
+8777,Jackson Ernst,Powell River Kings,F,20,0,1,0,1,0,0,2,1,2,2,4,5,9,0.45
+9430,Mathis Laplante,Surrey Eagles,F,11,2,3,1,0,1,0,2,0,0,0,4,5,9,0.8181818181818182
+9689,Havryil Simchuk,Cowichan Valley Capitals,F,15,1,1,1,1,1,0,1,1,2,0,3,6,9,0.6
+9897,Jack Toogood,Salmon Arm Silverbacks,F,13,3,0,1,0,0,0,2,3,0,0,3,6,9,0.6923076923076923
+10239,Jackson Schaefer,Powell River Kings,D,19,2,1,1,1,1,0,1,0,2,0,3,6,9,0.47368421052631576
+10211,Van Martin,Vernon Vipers,F,19,0,2,0,2,2,1,0,2,0,0,3,6,9,0.47368421052631576
+10205,Will Johnson,Vernon Vipers,F,19,1,2,0,3,0,0,1,0,0,2,3,6,9,0.47368421052631576
+10448,Alex Hendry,Victoria Grizzlies,D,18,0,3,1,2,0,0,1,0,2,0,2,7,9,0.5
+10648,Jessey Venturo,Sherwood Park Crusaders,LW,14,3,2,0,1,1,0,0,0,1,1,2,7,9,0.6428571428571429
+9584,Joseph Sinclair,Brooks Bandits,F,14,2,2,0,2,0,0,1,1,1,0,1,8,9,0.6428571428571429
+10615,Ben Davis,Sherwood Park Crusaders,C,1,1,1,0,1,2,1,0,0,0,2,5,3,8,8
+10615,Ben Davis,Sherwood Park Crusaders,F,16,1,1,0,1,2,1,0,0,0,2,5,3,8,0.5
+10302,Rhett Tubello,Prince George Spruce Kings,C,5,0,1,2,1,2,0,0,1,0,1,5,3,8,1.6
+10302,Rhett Tubello,Prince George Spruce Kings,RW,14,0,1,2,1,2,0,0,1,0,1,5,3,8,0.5714285714285714
+9596,Daxton Endicott,West Kelowna Warriors,F,16,1,1,1,1,1,0,0,0,1,2,4,4,8,0.5
+9583,Mikhail Mishin,Langley Rivermen,F,19,1,1,1,0,0,0,1,2,0,2,4,4,8,0.42105263157894735
+10027,Rylan Hue,Brooks Bandits,F,19,0,3,1,0,1,0,2,1,0,0,4,4,8,0.42105263157894735
+9874,Aaron Zulinick,Vernon Vipers,D,10,2,3,0,0,0,1,1,0,0,1,3,5,8,0.8
+9018,Denis Kuzmenkov,Blackfalds Bulldogs,F,11,1,1,1,3,1,0,1,0,0,0,3,5,8,0.7272727272727273
+9502,Scott Sandilands,Spruce Grove Saints,F,19,1,1,0,2,2,0,0,0,1,1,3,5,8,0.42105263157894735
+9927,Andrew Cowgill,Cowichan Valley Capitals,D,20,2,2,0,0,2,0,0,1,1,0,2,6,8,0.4
+9816,Asher Lucas,Surrey Eagles,F,21,1,1,0,0,1,1,0,3,1,0,2,6,8,0.38095238095238093
+10375,Gavin Bartha,West Kelowna Warriors,D,18,0,4,0,0,0,0,1,1,1,1,2,6,8,0.4444444444444444
+10200,Kristers Obuks,Chilliwack Chiefs,F,18,1,3,0,0,1,1,0,1,1,0,2,6,8,0.4444444444444444
+10303,Noah Franzina,Prince George Spruce Kings,LW,20,1,0,1,3,0,0,1,1,1,0,2,6,8,0.4
+10369,Pavel Goryachev,West Kelowna Warriors,LW,15,1,1,0,1,1,0,1,1,2,0,2,6,8,0.5333333333333333
+10636,Teague Vader,Surrey Eagles,D,19,0,2,0,0,0,1,1,3,1,0,2,6,8,0.42105263157894735
+10517,Trey Fredenberg,Okotoks Oilers,F,19,2,0,0,0,0,0,1,1,3,1,2,6,8,0.42105263157894735
+10368,Joe Marchi,West Kelowna Warriors,RW,18,1,1,0,2,0,0,1,1,2,0,1,7,8,0.4444444444444444
+9998,John Kelly,West Kelowna Warriors,D,18,0,1,0,1,0,1,0,3,2,0,1,7,8,0.4444444444444444
+10315,Kayden Turner,Cowichan Valley Capitals,F,19,1,4,0,2,0,0,0,0,0,1,1,7,8,0.42105263157894735
+10445,Peter Ziak,Victoria Grizzlies,F,14,0,2,1,1,0,0,0,2,2,0,1,7,8,0.5714285714285714
+10305,Anders Foyn Roen,Prince George Spruce Kings,LD,20,0,3,0,0,0,0,0,5,0,0,0,8,8,0.4
+8072,Kalan Anderlini,Surrey Eagles,D,21,2,2,0,0,0,0,0,1,3,0,0,8,8,0.38095238095238093
+9153,Tyler Chiovetti,Coquitlam Express,F,16,0,2,2,0,1,1,0,0,0,1,5,2,7,0.4375
+10564,Tyson Schamehorn,Victoria Grizzlies,F,17,0,0,0,1,1,0,3,1,0,1,5,2,7,0.4117647058823529
+8301,Brayden Rotach,Trail Smoke Eaters,F,20,0,0,0,0,1,2,1,2,1,0,4,3,7,0.35
+9697,Owen Fitzgerald,Surrey Eagles,F,13,0,1,2,1,1,0,1,0,1,0,4,3,7,0.5384615384615384
+10416,Erik Larson,Trail Smoke Eaters,D,17,3,1,0,0,0,0,3,0,0,0,3,4,7,0.4117647058823529
+9609,Konnor Bissell,Cranbrook Bucks,F,20,0,0,0,1,0,1,2,2,1,0,3,4,7,0.35
+10267,Lucas Cilan,Spruce Grove Saints,F,15,2,0,2,1,0,0,0,0,1,1,3,4,7,0.4666666666666667
+10249,Mykolas Skadauskas,Vernon Vipers,F,12,1,2,2,0,0,0,1,1,0,0,3,4,7,0.5833333333333334
+9747,Nicolas Addy,Langley Rivermen,F,16,1,2,0,0,0,1,2,0,1,0,3,4,7,0.4375
+9205,Oscar Björk,Vernon Vipers,D,20,0,2,0,0,0,0,2,1,1,1,3,4,7,0.35
+10271,Patrick Woods,Spruce Grove Saints,F,17,0,4,0,0,1,1,1,0,0,0,3,4,7,0.4117647058823529
+9474,Caden Stoltz,Trail Smoke Eaters,F,19,1,1,1,1,0,0,1,2,0,0,2,5,7,0.3684210526315789
+10556,Cohen Massey,Langley Rivermen,D,13,0,2,0,0,0,2,0,0,3,0,2,5,7,0.5384615384615384
+8913,Hudson Gill,Nanaimo Clippers,D,18,0,5,1,0,1,0,0,0,0,0,2,5,7,0.3888888888888889
+10142,James Larson,Cranbrook Bucks,F,19,0,3,1,0,0,1,0,1,1,0,2,5,7,0.3684210526315789
+10453,Mike Cuesta Flores,Victoria Grizzlies,D,18,1,1,1,0,0,0,1,2,1,0,2,5,7,0.3888888888888889
+9163,Patrick Fortune,Nanaimo Clippers,F,12,0,2,0,2,0,0,1,0,1,1,2,5,7,0.5833333333333334
+10424,Tim-Kristian Lukkarinen,Trail Smoke Eaters,F,15,2,2,1,0,0,0,1,0,1,0,2,5,7,0.4666666666666667
+10272,Gavin McNeil,Spruce Grove Saints,F,17,1,1,0,0,0,1,0,1,3,0,1,6,7,0.4117647058823529
+10148,Mykola Kosarev,Cranbrook Bucks,D,20,0,2,0,1,1,0,0,2,1,0,1,6,7,0.35
+10599,Trevor O'Dell,Alberni Valley Bulldogs,D,18,0,1,0,3,0,0,0,2,0,1,1,6,7,0.3888888888888889
+10393,Jager Gugyelka,Coquitlam Express,D,17,1,4,0,0,0,0,0,1,1,0,0,7,7,0.4117647058823529
+10114,Rhett Owen,Chilliwack Chiefs,F,18,2,1,0,0,0,0,0,2,2,0,0,7,7,0.3888888888888889
+10483,Kilian Alves Pereira,Alberni Valley Bulldogs,F,7,1,1,1,0,0,0,2,0,1,0,3,3,6,0.8571428571428571
+10335,Leon Gerber,Brooks Bandits,LD,19,0,1,1,0,1,0,0,0,2,1,3,3,6,0.3157894736842105
+8123,Matthew Hikida,Okotoks Oilers,F,19,1,0,0,1,2,0,1,1,0,0,3,3,6,0.3157894736842105
+9707,Michal Marsalek,Brooks Bandits,D,19,0,1,1,1,1,0,0,0,1,1,3,3,6,0.3157894736842105
+8745,Owen Leckelt,Spruce Grove Saints,F,17,1,0,0,1,1,1,0,0,1,1,3,3,6,0.35294117647058826
+10593,Colten Worthington,Surrey Eagles,F,21,0,2,0,0,0,1,1,1,1,0,2,4,6,0.2857142857142857
+10650,Connor Hillig,Surrey Eagles,F,15,1,1,2,0,0,0,0,2,0,0,2,4,6,0.4
+9994,Jackson Gillespie,Victoria Grizzlies,D,18,0,1,1,0,0,0,0,1,2,1,2,4,6,0.3333333333333333
+10482,Ricards Rutkis,Alberni Valley Bulldogs,F,19,0,2,1,1,0,1,0,1,0,0,2,4,6,0.3157894736842105
+10154,William St James,Nanaimo Clippers,D,19,0,1,1,1,0,0,1,0,2,0,2,4,6,0.3157894736842105
+10558,Zachary Carrier,Nanaimo Clippers,F,18,0,2,0,0,0,0,1,1,1,1,2,4,6,0.3333333333333333
+10002,Gabriel Anctil,Cowichan Valley Capitals,D,16,1,3,1,1,0,0,0,0,0,0,1,5,6,0.375
+8748,Kohyn Pipke,Blackfalds Bulldogs,D,11,0,2,0,0,0,0,0,1,2,1,1,5,6,0.5454545454545454
+8748,Kohyn Pipke,Spruce Grove Saints,D,6,0,2,0,0,0,0,0,1,2,1,1,5,6,1
+9945,Thomas Putnam,Langley Rivermen,F,19,2,1,0,0,0,0,0,2,0,1,1,5,6,0.3157894736842105
+9276,Krists Retenais,Langley Rivermen,D,19,1,0,0,1,0,0,0,1,3,0,0,6,6,0.3157894736842105
+10044,Noah Smith,Prince George Spruce Kings,RD,20,0,2,0,2,0,0,0,1,1,0,0,6,6,0.3
+9916,Ted Welander,Trail Smoke Eaters,D,16,2,1,0,1,0,0,0,1,1,0,0,6,6,0.375
+10198,Jack Clark,Nanaimo Clippers,F,11,0,1,1,0,2,0,1,0,0,0,4,1,5,0.45454545454545453
+10198,Jack Clark,Surrey Eagles,F,6,0,1,1,0,2,0,1,0,0,0,4,1,5,0.8333333333333334
+9793,Ty Krooshoop,Chilliwack Chiefs,D,10,1,0,1,0,1,1,1,0,0,0,4,1,5,0.5
+9793,Ty Krooshoop,Chilliwack Chiefs,RD,3,1,0,1,0,1,1,1,0,0,0,4,1,5,1.6666666666666667
+9119,Brayden Gourley,Cranbrook Bucks,F,17,1,0,1,1,0,0,2,0,0,0,3,2,5,0.29411764705882354
+10644,CJ Watroba,Cranbrook Bucks,F,15,0,1,1,0,0,0,1,0,1,1,3,2,5,0.3333333333333333
+10578,Chaz Lentz,West Kelowna Warriors,F,18,1,0,1,0,2,0,0,0,1,0,3,2,5,0.2777777777777778
+10230,Deegan Hoffbauer,Powell River Kings,D,20,1,1,0,0,1,1,1,0,0,0,3,2,5,0.25
+10304,Ethan Stewart,Prince George Spruce Kings,RW,11,0,2,0,0,1,1,1,0,0,0,3,2,5,0.45454545454545453
+8770,Jeremy Friesen,Langley Rivermen,D,7,1,0,0,0,1,1,1,1,0,0,3,2,5,0.7142857142857143
+8770,Jeremy Friesen,Powell River Kings,D,5,1,0,0,0,1,1,1,1,0,0,3,2,5,1
+9530,Koen Senft,Salmon Arm Silverbacks,F,19,1,1,0,0,0,2,1,0,0,0,3,2,5,0.2631578947368421
+9468,Krisjanis Sarts,Blackfalds Bulldogs,D,15,0,1,2,1,0,0,1,0,0,0,3,2,5,0.3333333333333333
+10016,Max Anderson,Sherwood Park Crusaders,F,9,0,2,0,0,0,2,1,0,0,0,3,2,5,0.5555555555555556
+10016,Max Anderson,Sherwood Park Crusaders,LW,1,0,2,0,0,0,2,1,0,0,0,3,2,5,5
+9649,Owen Warnick,Victoria Grizzlies,F,8,0,1,0,0,0,0,2,1,0,1,3,2,5,0.625
+9640,Parker MacDougall,Victoria Grizzlies,F,12,0,1,0,0,1,1,1,0,1,0,3,2,5,0.4166666666666667
+9903,Paul Wiczek,Surrey Eagles,F,20,1,1,0,0,1,0,2,0,0,0,3,2,5,0.25
+10586,Roghan Walker,Langley Rivermen,RW,19,1,0,0,1,1,1,1,0,0,0,3,2,5,0.2631578947368421
+10157,Will Watson,Okotoks Oilers,F,18,1,0,0,0,1,1,1,1,0,0,3,2,5,0.2777777777777778
+10253,Brendan Finley,Cowichan Valley Capitals,F,17,1,2,0,0,1,0,1,0,0,0,2,3,5,0.29411764705882354
+10018,Chase Nehring,Trail Smoke Eaters,F,12,1,0,1,0,0,0,1,1,1,0,2,3,5,0.4166666666666667
+10296,Cristian Achim,Prince George Spruce Kings,LD,19,0,2,0,0,1,0,0,1,0,1,2,3,5,0.2631578947368421
+10610,Daniel Morozov,Coquitlam Express,F,8,2,0,0,0,0,1,1,0,1,0,2,3,5,0.625
+9461,Ethan Anderson,Okotoks Oilers,D,17,0,1,0,0,1,0,1,2,0,0,2,3,5,0.29411764705882354
+9426,Fraser Leonard,Okotoks Oilers,D,8,0,3,0,0,0,1,0,0,0,1,2,3,5,0.625
+9062,Grayson Salmon,Alberni Valley Bulldogs,F,16,2,0,0,0,1,0,0,1,0,1,2,3,5,0.3125
+7639,Jake Westhaver,Langley Rivermen,RD,6,1,1,1,0,1,0,0,1,0,0,2,3,5,0.8333333333333334
+7639,Jake Westhaver,Powell River Kings,RD,13,1,1,1,0,1,0,0,1,0,0,2,3,5,0.38461538461538464
+10559,Matthew Ross,Nanaimo Clippers,F,16,0,2,0,0,0,0,1,1,0,1,2,3,5,0.3125
+10590,Nathan Gray,Langley Rivermen,D,19,1,1,1,0,0,0,1,1,0,0,2,3,5,0.2631578947368421
+9434,Ben Vreugdenhil,Prince George Spruce Kings,C,6,0,1,0,1,0,0,1,1,1,0,1,4,5,0.8333333333333334
+9536,Brady Logue,Salmon Arm Silverbacks,F,11,1,1,0,1,0,0,1,1,0,0,1,4,5,0.45454545454545453
+10582,CJ Watson,West Kelowna Warriors,D,11,1,2,0,1,1,0,0,0,0,0,1,4,5,0.45454545454545453
+7995,Cale Colwell,Langley Rivermen,F,15,0,1,1,1,0,0,0,1,1,0,1,4,5,0.3333333333333333
+7995,Cale Colwell,Powell River Kings,F,5,0,1,1,1,0,0,0,1,1,0,1,4,5,1
+10255,Charles-Albert Pouliot,Sherwood Park Crusaders,F,8,2,0,0,0,1,0,0,0,2,0,1,4,5,0.625
+10255,Charles-Albert Pouliot,Sherwood Park Crusaders,LW,1,2,0,0,0,1,0,0,0,2,0,1,4,5,5
+10049,Eli Molde,Okotoks Oilers,F,4,0,1,0,0,0,1,0,1,2,0,1,4,5,1.25
+10514,Ethan Sautner,Powell River Kings,F,20,1,1,0,0,0,0,1,1,1,0,1,4,5,0.25
+8776,Gabriel Kenny,Spruce Grove Saints,D,18,1,2,0,0,0,1,0,0,1,0,1,4,5,0.2777777777777778
+8776,Gabriel Kenny,Victoria Grizzlies,D,1,1,2,0,0,0,1,0,0,1,0,1,4,5,5
+10639,Igor Silchenko,Coquitlam Express,F,14,0,1,0,1,0,0,1,1,1,0,1,4,5,0.35714285714285715
+9545,John Lumsden,Cowichan Valley Capitals,D,19,1,1,0,2,0,0,1,0,0,0,1,4,5,0.2631578947368421
+8005,Kaslo Ferner,Cranbrook Bucks,F,8,0,1,0,0,1,0,0,2,1,0,1,4,5,0.625
+9066,Milan Mrsic,Chilliwack Chiefs,F,10,1,1,1,1,0,0,0,1,0,0,1,4,5,0.5
+9066,Milan Mrsic,Chilliwack Chiefs,LW,10,1,1,1,1,0,0,0,1,0,0,1,4,5,0.5
+9195,Nathan Hillmann,Coquitlam Express,D,16,1,1,0,1,1,0,0,1,0,0,1,4,5,0.3125
+10535,Sander Molde,Victoria Grizzlies,D,14,1,1,0,0,0,0,1,2,0,0,1,4,5,0.35714285714285715
+10260,Torretto Marrelli,Sherwood Park Crusaders,F,13,2,0,0,1,0,0,1,0,1,0,1,4,5,0.38461538461538464
+10260,Torretto Marrelli,Sherwood Park Crusaders,LW,1,2,0,0,1,0,0,1,0,1,0,1,4,5,5
+10463,Trey Hinton,West Kelowna Warriors,F,18,0,1,0,2,0,1,0,0,1,0,1,4,5,0.2777777777777778
+10633,Zachary Spurgeon,Brooks Bandits,D,14,0,0,1,3,0,0,0,0,1,0,1,4,5,0.35714285714285715
+9964,Benedetto-Antonio Masi,Powell River Kings,LW,8,0,2,0,1,0,0,0,1,1,0,0,5,5,0.625
+7970,Brayden Pankey,Vernon Vipers,D,20,2,2,0,1,0,0,0,0,0,0,0,5,5,0.25
+9077,Tristan Payne,Coquitlam Express,D,12,1,2,0,0,0,0,0,1,1,0,0,5,5,0.4166666666666667
+10122,Brady Keith,Chilliwack Chiefs,F,17,0,0,0,0,1,1,2,0,0,0,4,0,4,0.23529411764705882
+9499,Brady Witkin,Nanaimo Clippers,F,5,0,0,1,0,2,1,0,0,0,0,4,0,4,0.8
+9499,Brady Witkin,Surrey Eagles,F,13,0,0,1,0,2,1,0,0,0,0,4,0,4,0.3076923076923077
+9936,Danny Buckley,Surrey Eagles,F,21,0,0,2,0,0,0,2,0,0,0,4,0,4,0.19047619047619047
+10043,Adam Crosby,Prince George Spruce Kings,C,20,1,0,0,0,0,1,2,0,0,0,3,1,4,0.2
+10484,Andrea Meunier,Alberni Valley Bulldogs,F,15,0,0,0,1,0,1,0,0,0,2,3,1,4,0.26666666666666666
+10047,Chase Campbell,Salmon Arm Silverbacks,F,19,1,0,0,0,0,1,1,0,0,1,3,1,4,0.21052631578947367
+10669,Cooper Ludwar,Chilliwack Chiefs,F,8,0,0,0,0,0,2,1,0,1,0,3,1,4,0.5
+9397,Leim Smith,Alberni Valley Bulldogs,C,9,0,0,1,1,1,0,0,0,0,1,3,1,4,0.4444444444444444
+8070,Adam Boatter,Chilliwack Chiefs,D,10,0,2,0,0,1,0,1,0,0,0,2,2,4,0.4
+8070,Adam Boatter,Chilliwack Chiefs,RD,10,0,2,0,0,1,0,1,0,0,0,2,2,4,0.4
+9483,Bradley Schmidt,Coquitlam Express,RW,5,1,0,0,1,0,1,1,0,0,0,2,2,4,0.8
+9483,Bradley Schmidt,Langley Rivermen,RW,11,1,0,0,1,0,1,1,0,0,0,2,2,4,0.36363636363636365
+10125,Caden Cail,Chilliwack Chiefs,F,14,1,0,0,1,0,1,0,0,0,1,2,2,4,0.2857142857142857
+10629,Caden Lindsay,Okotoks Oilers,F,10,0,0,1,0,0,1,0,2,0,0,2,2,4,0.4
+9787,Easton Schlender,Sherwood Park Crusaders,F,16,0,0,0,1,0,2,0,0,1,0,2,2,4,0.25
+9787,Easton Schlender,Sherwood Park Crusaders,RW,1,0,0,0,1,0,2,0,0,1,0,2,2,4,4
+10130,Jack Mccullough,Chilliwack Chiefs,D,4,1,0,0,0,0,0,1,0,1,1,2,2,4,1
+10130,Jack Mccullough,Sherwood Park Crusaders,D,12,1,0,0,0,0,0,1,0,1,1,2,2,4,0.3333333333333333
+10341,Jacob Bultje,Brooks Bandits,F,14,0,1,0,0,0,0,0,0,1,2,2,2,4,0.2857142857142857
+10486,Malte Barthold,Alberni Valley Bulldogs,F,18,0,0,0,1,0,0,2,1,0,0,2,2,4,0.2222222222222222
+9813,Tyler Russell,Okotoks Oilers,D,12,1,0,1,1,0,1,0,0,0,0,2,2,4,0.3333333333333333
+10554,Carl-Otto Magnusson,Nanaimo Clippers,D,19,0,1,0,0,0,0,1,0,2,0,1,3,4,0.21052631578947367
+10481,Drew Bowe,Alberni Valley Bulldogs,F,17,1,1,0,0,0,0,1,0,1,0,1,3,4,0.23529411764705882
+8455,Dryden Kuramoto,Surrey Eagles,F,3,0,0,0,1,0,0,1,1,1,0,1,3,4,1.3333333333333333
+9456,Henry Sampair,Okotoks Oilers,D,18,0,1,0,2,0,1,0,0,0,0,1,3,4,0.2222222222222222
+9812,James Odyniec,Coquitlam Express,D,17,1,1,0,0,0,0,1,0,1,0,1,3,4,0.23529411764705882
+10673,Kaeson Fisher,Spruce Grove Saints,D,8,1,0,0,2,0,0,0,0,0,1,1,3,4,0.5
+9924,Lazarus Ebanoidze,Sherwood Park Crusaders,D,13,1,0,0,1,0,0,0,1,0,1,1,3,4,0.3076923076923077
+8957,London Taylor,Spruce Grove Saints,F,17,2,0,0,1,0,0,0,0,0,1,1,3,4,0.23529411764705882
+10139,Lucas Husted-Edwards,Cranbrook Bucks,F,19,1,0,0,0,1,0,0,2,0,0,1,3,4,0.21052631578947367
+10241,Martin Cerny,Vernon Vipers,D,20,0,1,0,2,0,0,1,0,0,0,1,3,4,0.2
+10441,Matthew Dowdall,Victoria Grizzlies,F,16,0,0,0,1,0,0,1,2,0,0,1,3,4,0.25
+10468,Pherson Loehndorf,Nanaimo Clippers,D,19,0,1,0,0,0,0,0,2,0,1,1,3,4,0.21052631578947367
+9970,Ryan George,Alberni Valley Bulldogs,D,7,1,2,0,0,0,1,0,0,0,0,1,3,4,0.5714285714285714
+10153,Tristin Wassengeso,Okotoks Oilers,F,17,1,0,0,2,0,1,0,0,0,0,1,3,4,0.23529411764705882
+10414,Wade Gallamore,Trail Smoke Eaters,D,18,1,1,0,0,0,1,0,0,1,0,1,3,4,0.2222222222222222
+9976,Avery Johnson,Coquitlam Express,F,11,2,1,0,0,0,0,0,0,1,0,0,4,4,0.36363636363636365
+9732,Brendan DeFeo,Alberni Valley Bulldogs,F,12,0,1,0,0,0,0,0,2,1,0,0,4,4,0.3333333333333333
+10064,Curtis Freeman,Cowichan Valley Capitals,F,12,1,2,0,0,0,0,0,1,0,0,0,4,4,0.3333333333333333
+10598,Devin Smith,Cranbrook Bucks,D,19,0,2,0,1,0,0,0,0,1,0,0,4,4,0.21052631578947367
+10063,Henry Kress,Blackfalds Bulldogs,F,18,1,0,0,1,0,0,0,1,1,0,0,4,4,0.2222222222222222
+10176,Jacob Guille,Okotoks Oilers,D,17,1,2,0,0,0,0,0,0,1,0,0,4,4,0.23529411764705882
+10089,John Crawford,Blackfalds Bulldogs,D,15,0,3,0,0,0,0,0,0,1,0,0,4,4,0.26666666666666666
+7992,Landon Cowper,Langley Rivermen,D,14,1,2,0,0,0,0,0,1,0,0,0,4,4,0.2857142857142857
+9931,Liam Magnuson,Cranbrook Bucks,D,18,0,4,0,0,0,0,0,0,0,0,0,4,4,0.2222222222222222
+10516,Luke Bogart,Powell River Kings,D,14,0,2,0,0,0,0,0,2,0,0,0,4,4,0.2857142857142857
+10262,Michael Zuyev,Spruce Grove Saints,D,14,1,1,0,0,0,0,0,1,1,0,0,4,4,0.2857142857142857
+9124,Sam Osei,Sherwood Park Crusaders,D,17,0,0,0,1,0,0,0,1,2,0,0,4,4,0.23529411764705882
+9124,Sam Osei,Sherwood Park Crusaders,RD,1,0,0,0,1,0,0,0,1,2,0,0,4,4,4
+10609,Sebastian Miles,Coquitlam Express,D,17,0,2,0,0,0,0,0,2,0,0,0,4,4,0.23529411764705882
+10009,Wassim Rabbath,Alberni Valley Bulldogs,D,20,0,2,0,1,0,0,0,0,1,0,0,4,4,0.2
+10506,Leon Bjelkelöv-Brunn,Blackfalds Bulldogs,F,17,0,0,1,0,0,1,1,0,0,0,3,0,3,0.17647058823529413
+8563,Adam Perron,Spruce Grove Saints,F,7,0,0,0,0,1,1,0,1,0,0,2,1,3,0.42857142857142855
+10583,Kainoah Brankovic,Chilliwack Chiefs,D,15,0,0,1,0,0,0,0,0,1,1,2,1,3,0.2
+8754,Max LeDuc,Blackfalds Bulldogs,F,8,0,1,0,0,1,1,0,0,0,0,2,1,3,0.375
+10666,Rim Giniyatullin,Alberni Valley Bulldogs,F,11,0,1,1,0,0,0,1,0,0,0,2,1,3,0.2727272727272727
+10120,Tate Hanson,Chilliwack Chiefs,F,19,0,1,1,0,1,0,0,0,0,0,2,1,3,0.15789473684210525
+10686,Brady Turner,Spruce Grove Saints,F,3,0,0,0,0,0,0,0,2,0,1,1,2,3,1
+10349,Cohen Hoening,Salmon Arm Silverbacks,F,18,1,1,0,0,0,0,0,0,0,1,1,2,3,0.16666666666666666
+10300,Daniel Podvalov,Prince George Spruce Kings,RW,19,0,0,0,1,0,0,0,1,0,1,1,2,3,0.15789473684210525
+10657,Dylan Ruff,Victoria Grizzlies,F,10,0,1,1,1,0,0,0,0,0,0,1,2,3,0.3
+9464,Harout Arutyunyan,Langley Rivermen,F,4,0,0,1,0,0,0,0,2,0,0,1,2,3,0.75
+10235,Isaiah Shantz,Powell River Kings,F,15,1,0,0,0,0,1,0,0,1,0,1,2,3,0.2
+9772,Jeremy Poirier,Cranbrook Bucks,D,15,0,0,0,1,0,0,1,0,1,0,1,2,3,0.2
+7555,Joven Brar,Surrey Eagles,D,10,0,2,0,0,0,0,1,0,0,0,1,2,3,0.3
+7701,Liam Loughery,Surrey Eagles,D,21,0,0,0,0,0,0,1,0,2,0,1,2,3,0.14285714285714285
+10196,Logan Wilson,Nanaimo Clippers,F,12,0,0,0,2,0,0,0,0,0,1,1,2,3,0.25
+10196,Logan Wilson,Sherwood Park Crusaders,F,5,0,0,0,2,0,0,0,0,0,1,1,2,3,0.6
+9794,Mark Konstantinov,Powell River Kings,D,18,1,0,0,0,0,0,1,1,0,0,1,2,3,0.16666666666666666
+10528,Max Schaller,Trail Smoke Eaters,F,20,0,1,0,0,0,0,1,1,0,0,1,2,3,0.15
+10465,Noah Caswell,Nanaimo Clippers,D,18,0,1,0,0,0,0,1,1,0,0,1,2,3,0.16666666666666666
+10285,Sean Robins,Surrey Eagles,F,16,0,2,1,0,0,0,0,0,0,0,1,2,3,0.1875
+10017,Tyler Greene,Langley Rivermen,F,6,0,0,1,0,0,0,0,0,2,0,1,2,3,0.5
+10017,Tyler Greene,Trail Smoke Eaters,F,4,0,0,1,0,0,0,0,0,2,0,1,2,3,0.75
+9304,Vincent Croteau,Prince George Spruce Kings,LD,15,1,1,0,0,0,0,1,0,0,0,1,2,3,0.2
+10442,Anthony Roy,Victoria Grizzlies,F,10,0,2,0,0,0,0,0,1,0,0,0,3,3,0.3
+10334,Anton Shkolny,Sherwood Park Crusaders,D,14,1,2,0,0,0,0,0,0,0,0,0,3,3,0.21428571428571427
+10213,Bobo Tyche,Brooks Bandits,D,18,0,2,0,1,0,0,0,0,0,0,0,3,3,0.16666666666666666
+9957,Braeyen Newans,Alberni Valley Bulldogs,D,15,1,1,0,1,0,0,0,0,0,0,0,3,3,0.2
+10638,Cash Lanigan,Spruce Grove Saints,F,17,0,0,0,2,0,0,0,0,1,0,0,3,3,0.17647058823529413
+9888,Casper Lang,Cowichan Valley Capitals,D,14,0,1,0,0,0,0,0,1,1,0,0,3,3,0.21428571428571427
+9888,Casper Lang,Cranbrook Bucks,D,7,0,1,0,0,0,0,0,1,1,0,0,3,3,0.42857142857142855
+8889,Evan Cook,Surrey Eagles,F,16,0,1,0,0,0,0,0,1,1,0,0,3,3,0.1875
+10432,Gavin Karl,Blackfalds Bulldogs,D,6,0,1,0,1,0,0,0,1,0,0,0,3,3,0.5
+10222,Isaac Suh,Brooks Bandits,D,6,0,1,0,1,0,0,0,1,0,0,0,3,3,0.5
+10681,Jackson Arango,Spruce Grove Saints,D,5,0,0,0,1,0,0,0,1,1,0,0,3,3,0.6
+10430,Jeppe Bertram,Blackfalds Bulldogs,D,5,0,1,0,0,0,0,0,0,2,0,0,3,3,0.6
+10430,Jeppe Bertram,Spruce Grove Saints,D,7,0,1,0,0,0,0,0,0,2,0,0,3,3,0.42857142857142855
+7740,Kenyon McIsaac,Cowichan Valley Capitals,D,9,0,1,0,0,0,0,0,1,1,0,0,3,3,0.3333333333333333
+7740,Kenyon McIsaac,Sherwood Park Crusaders,D,4,0,1,0,0,0,0,0,1,1,0,0,3,3,0.75
+10316,Mack Blue,Cowichan Valley Capitals,F,18,1,2,0,0,0,0,0,0,0,0,0,3,3,0.16666666666666666
+9827,Max Davidson,Prince George Spruce Kings,RD,18,1,0,0,1,0,0,0,0,1,0,0,3,3,0.16666666666666666
+10269,Richard Krnac,Spruce Grove Saints,F,11,1,0,0,0,0,0,0,1,1,0,0,3,3,0.2727272727272727
+10246,Roman Lavery,Vernon Vipers,F,9,0,0,0,2,0,0,0,1,0,0,0,3,3,0.3333333333333333
+10338,Samuel Lussier,Brooks Bandits,F,9,1,0,0,2,0,0,0,0,0,0,0,3,3,0.3333333333333333
+9012,Shaenen Long,Coquitlam Express,F,16,0,0,0,0,1,1,0,0,0,0,2,0,2,0.125
+10344,Tomas Racz,Brooks Bandits,F,4,0,0,1,0,0,0,0,0,0,1,2,0,2,0.5
+9920,Artem Akhmadullin,Blackfalds Bulldogs,F,2,0,0,0,1,0,0,0,0,0,1,1,1,2,1
+8487,Brandon Osborne,Chilliwack Chiefs,D,9,0,1,0,0,0,0,1,0,0,0,1,1,2,0.2222222222222222
+8487,Brandon Osborne,Chilliwack Chiefs,LD,10,0,1,0,0,0,0,1,0,0,0,1,1,2,0.2
+10389,Christian Revel,Coquitlam Express,F,13,0,1,1,0,0,0,0,0,0,0,1,1,2,0.15384615384615385
+10109,Hudson Deren,Chilliwack Chiefs,F,18,0,0,0,1,0,0,1,0,0,0,1,1,2,0.1111111111111111
+9873,Jordan Murray,Okotoks Oilers,D,2,0,1,1,0,0,0,0,0,0,0,1,1,2,1
+10376,Kylen Martens,West Kelowna Warriors,D,18,0,1,0,0,0,0,0,0,0,1,1,1,2,0.1111111111111111
+8368,Landon Pue,Powell River Kings,F,16,0,0,0,1,0,0,1,0,0,0,1,1,2,0.125
+10661,Lucas Teixeira,Blackfalds Bulldogs,F,9,0,0,1,0,0,0,0,1,0,0,1,1,2,0.2222222222222222
+9042,Luciano Bruno,West Kelowna Warriors,F,7,0,0,0,0,0,0,1,0,1,0,1,1,2,0.2857142857142857
+9467,Magnuss Avotins,Blackfalds Bulldogs,F,12,1,0,0,0,0,0,0,0,0,1,1,1,2,0.16666666666666666
+10679,Peter Murray,Chilliwack Chiefs,F,5,0,0,0,0,0,0,1,0,1,0,1,1,2,0.4
+10450,Ryland Molde,Victoria Grizzlies,D,13,0,1,0,0,0,0,1,0,0,0,1,1,2,0.15384615384615385
+9968,Shane Tronoski,Cranbrook Bucks,F,11,0,1,1,0,0,0,0,0,0,0,1,1,2,0.18181818181818182
+10534,Shayle Simons,Blackfalds Bulldogs,D,7,1,0,0,0,0,1,0,0,0,0,1,1,2,0.2857142857142857
+9999,Victor Morrissette-Richer,Langley Rivermen,LW,6,0,0,0,0,0,0,1,1,0,0,1,1,2,0.3333333333333333
+10630,Aaron Murphy,Okotoks Oilers,D,13,0,2,0,0,0,0,0,0,0,0,0,2,2,0.15384615384615385
+10361,Antonio Cazac,Salmon Arm Silverbacks,F,12,2,0,0,0,0,0,0,0,0,0,0,2,2,0.16666666666666666
+10488,Bogdan Rogushkin,Alberni Valley Bulldogs,F,3,0,1,0,0,0,0,0,1,0,0,0,2,2,0.6666666666666666
+9603,Cadel Gourlay,Cranbrook Bucks,D,19,1,0,0,0,0,0,0,1,0,0,0,2,2,0.10526315789473684
+10210,Cole Ellis,Vernon Vipers,D,13,0,1,0,0,0,0,0,1,0,0,0,2,2,0.15384615384615385
+10654,Dylan Hurren,Powell River Kings,D,10,1,0,0,1,0,0,0,0,0,0,0,2,2,0.2
+8943,Evan Stastny,Surrey Eagles,D,12,0,0,0,0,0,0,0,0,2,0,0,2,2,0.16666666666666666
+8943,Evan Stastny,West Kelowna Warriors,D,6,0,0,0,0,0,0,0,0,2,0,0,2,2,0.3333333333333333
+10090,Hampus Vandenberg,Alberni Valley Bulldogs,D,10,0,1,0,1,0,0,0,0,0,0,0,2,2,0.2
+10090,Hampus Vandenberg,Blackfalds Bulldogs,D,9,0,1,0,1,0,0,0,0,0,0,0,2,2,0.2222222222222222
+10687,Josh Zitzman,Spruce Grove Saints,D,3,1,0,0,1,0,0,0,0,0,0,0,2,2,0.6666666666666666
+8891,Junsu Kwak,Langley Rivermen,F,9,1,1,0,0,0,0,0,0,0,0,0,2,2,0.2222222222222222
+10356,Logan Keup,Salmon Arm Silverbacks,D,15,1,1,0,0,0,0,0,0,0,0,0,2,2,0.13333333333333333
+10510,Max Kramer,Cowichan Valley Capitals,D,13,0,0,0,0,0,0,0,0,2,0,0,2,2,0.15384615384615385
+10466,Murray Kanerva,Nanaimo Clippers,D,16,0,0,0,0,0,0,0,2,0,0,0,2,2,0.125
+10684,Sean Short,Cowichan Valley Capitals,D,5,0,1,0,0,0,0,0,1,0,0,0,2,2,0.4
+8959,Tate O'Brien,Salmon Arm Silverbacks,RD,11,1,0,0,0,0,0,0,1,0,0,0,2,2,0.18181818181818182
+10181,Tate Swanson,Nanaimo Clippers,F,15,0,1,0,1,0,0,0,0,0,0,0,2,2,0.13333333333333333
+10437,Barrett Fogolin,Cowichan Valley Capitals,D,2,0,0,0,0,0,1,0,0,0,0,1,0,1,0.5
+10147,Cole Willard,Cranbrook Bucks,D,9,0,0,0,0,0,0,1,0,0,0,1,0,1,0.1111111111111111
+9390,Grady Gustafson,Okotoks Oilers,F,2,0,0,0,0,0,0,0,0,0,1,1,0,1,0.5
+10546,Jacob Lèonard,Victoria Grizzlies,D,15,0,0,0,0,0,0,1,0,0,0,1,0,1,0.06666666666666667
+10088,John Kartsonakis,Blackfalds Bulldogs,F,10,0,0,0,0,0,1,0,0,0,0,1,0,1,0.1
+10579,Kaidan Sahajpal,West Kelowna Warriors,F,4,0,0,0,0,0,0,1,0,0,0,1,0,1,0.25
+10642,Kallen Ray,Trail Smoke Eaters,D,17,0,0,0,0,0,0,1,0,0,0,1,0,1,0.058823529411764705
+10123,Kannon Taylor,Chilliwack Chiefs,F,7,0,0,0,0,0,0,0,0,0,1,1,0,1,0.14285714285714285
+9493,Lucas Knorr,Coquitlam Express,F,6,0,0,0,0,1,0,0,0,0,0,1,0,1,0.16666666666666666
+10651,Max Ludwar,West Kelowna Warriors,D,10,0,0,0,0,0,1,0,0,0,0,1,0,1,0.1
+9652,Michael Dowdall,Victoria Grizzlies,F,3,0,0,0,0,0,0,1,0,0,0,1,0,1,0.3333333333333333
+10674,Nathan Birch,Blackfalds Bulldogs,D,5,0,0,0,0,0,0,1,0,0,0,1,0,1,0.2
+10274,Owen Cronan,Spruce Grove Saints,F,13,0,0,0,0,0,1,0,0,0,0,1,0,1,0.07692307692307693
+10683,Ryder Tanner,Langley Rivermen,LW,5,0,0,0,0,0,1,0,0,0,0,1,0,1,0.2
+10447,Tobiáš Vitek,Victoria Grizzlies,F,17,0,0,1,0,0,0,0,0,0,0,1,0,1,0.058823529411764705
+10174,Alex Curti,Brooks Bandits,D,14,0,1,0,0,0,0,0,0,0,0,0,1,1,0.07142857142857142
+10569,Arseni Vorobyov,Sherwood Park Crusaders,F,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1
+10412,Ben Albers,Cowichan Valley Capitals,D,5,0,1,0,0,0,0,0,0,0,0,0,1,1,0.2
+10412,Ben Albers,Trail Smoke Eaters,D,12,0,1,0,0,0,0,0,0,0,0,0,1,1,0.08333333333333333
+10412,Ben Albers,Trail Smoke Eaters,F,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1
+10427,Blake Kiley-Ram,Blackfalds Bulldogs,F,16,0,0,0,0,0,0,0,1,0,0,0,1,1,0.0625
+10373,Carter Rebman,West Kelowna Warriors,D,16,0,0,0,1,0,0,0,0,0,0,0,1,1,0.0625
+10614,Chance Burlison,Sherwood Park Crusaders,F,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1
+10614,Chance Burlison,Sherwood Park Crusaders,RW,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1
+10670,Cohen Handby,Vernon Vipers,F,7,0,1,0,0,0,0,0,0,0,0,0,1,1,0.14285714285714285
+10158,Daniel Tverdovsky,Nanaimo Clippers,D,15,1,0,0,0,0,0,0,0,0,0,0,1,1,0.06666666666666667
+10381,Freeman Butler,Langley Rivermen,D,16,0,0,0,0,0,0,0,1,0,0,0,1,1,0.0625
+10585,Herberts Laugalis,Blackfalds Bulldogs,D,8,0,0,0,0,0,0,0,1,0,0,0,1,1,0.125
+9034,Hunter Ashton,Coquitlam Express,D,4,0,1,0,0,0,0,0,0,0,0,0,1,1,0.25
+10383,Jacob Nelson,Langley Rivermen,D,8,1,0,0,0,0,0,0,0,0,0,0,1,1,0.125
+10678,Joe Mense,Coquitlam Express,D,2,1,0,0,0,0,0,0,0,0,0,0,1,1,0.5
+10240,Jude Martin,Vernon Vipers,D,14,0,0,0,1,0,0,0,0,0,0,0,1,1,0.07142857142857142
+10645,Julian Revel,Coquitlam Express,D,8,0,1,0,0,0,0,0,0,0,0,0,1,1,0.125
+8960,Kyle Mayenburg,Powell River Kings,LD,12,0,0,0,0,0,0,0,0,1,0,0,1,1,0.08333333333333333
+10457,Landon Poe,Victoria Grizzlies,D,14,0,1,0,0,0,0,0,0,0,0,0,1,1,0.07142857142857142
+9544,Luca DeCubellis,Salmon Arm Silverbacks,D,19,0,0,0,0,0,0,0,1,0,0,0,1,1,0.05263157894736842
+10366,Luke Isaacs,West Kelowna Warriors,LW,13,0,1,0,0,0,0,0,0,0,0,0,1,1,0.07692307692307693
+9020,Matson Waring,Surrey Eagles,D,18,1,0,0,0,0,0,0,0,0,0,0,1,1,0.05555555555555555
+10464,Max Finley,Chilliwack Chiefs,F,8,0,0,0,0,0,0,0,0,1,0,0,1,1,0.125
+10464,Max Finley,Spruce Grove Saints,F,9,0,0,0,0,0,0,0,0,1,0,0,1,1,0.1111111111111111
+9525,Max Reed,Prince George Spruce Kings,LD,16,0,1,0,0,0,0,0,0,0,0,0,1,1,0.0625
+10634,Max Sullivan,Chilliwack Chiefs,F,2,0,0,0,0,0,0,0,1,0,0,0,1,1,0.5
+8091,Morgan Hackman,Nanaimo Clippers,F,17,0,1,0,0,0,0,0,0,0,0,0,1,1,0.058823529411764705
+10284,Nico McDonald,Surrey Eagles,F,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+10682,Nikita Voiaga,Alberni Valley Bulldogs,D,8,0,1,0,0,0,0,0,0,0,0,0,1,1,0.125
+10404,Patrick McSharry,Trail Smoke Eaters,F,7,0,1,0,0,0,0,0,0,0,0,0,1,1,0.14285714285714285
+10637,Sutton Verot,Blackfalds Bulldogs,F,5,1,0,0,0,0,0,0,0,0,0,0,1,1,0.2
+9615,Teghan Mullin,Cranbrook Bucks,F,11,0,0,0,0,0,0,0,0,1,0,0,1,1,0.09090909090909091
+8055,Trevor Oishi,Coquitlam Express,D,13,0,0,0,0,0,0,0,0,1,0,0,1,1,0.07692307692307693
+8055,Trevor Oishi,West Kelowna Warriors,D,3,0,0,0,0,0,0,0,0,1,0,0,1,1,0.3333333333333333
+10529,Trey Tourigny,Trail Smoke Eaters,F,17,0,0,0,0,0,0,0,1,0,0,0,1,1,0.058823529411764705
+9712,Tripp Reynolds,Cowichan Valley Capitals,D,2,1,0,0,0,0,0,0,0,0,0,0,1,1,0.5
+10492,Ture Anund,Alberni Valley Bulldogs,D,8,0,1,0,0,0,0,0,0,0,0,0,1,1,0.125
+10023,William McKay,Powell River Kings,RW,15,0,1,0,0,0,0,0,0,0,0,0,1,1,0.06666666666666667
+9941,Alex Cleary,Brooks Bandits,D,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10600,Alex Levasseur,Alberni Valley Bulldogs,F,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8388,Anthony Ip,Coquitlam Express,D,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10390,Austin Pavan,Coquitlam Express,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9346,Avraham Brown,Coquitlam Express,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10318,Beck Bethard,Cowichan Valley Capitals,D,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10444,Bennet Otten,Victoria Grizzlies,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9977,Blair Erickson,Spruce Grove Saints,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10705,Bogdan Roughskin,Alberni Valley Bulldogs,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10694,Braeden Hart,Salmon Arm Silverbacks,D,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9415,Brayden Tremblay,Trail Smoke Eaters,D,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10580,Brock Fairbanks,West Kelowna Warriors,F,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9914,Brodie Kay,Spruce Grove Saints,D,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9589,Caleb Lankoff,West Kelowna Warriors,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10232,Cam Kovary,Powell River Kings,F,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10228,Carden Fraser,Powell River Kings,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9037,Carter Hynes,Blackfalds Bulldogs,D,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9610,Chris Wright,Cranbrook Bucks,F,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10291,Cody Smethurst,Surrey Eagles,D,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9442,Colby Monette,Coquitlam Express,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10265,Cole Bent,Spruce Grove Saints,D,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10704,Dane Hasell,Cowichan Valley Capitals,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10667,Darius Kanalan,Alberni Valley Bulldogs,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9547,Donny Sisson,Salmon Arm Silverbacks,D,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10690,Dylan Hoskins,Powell River Kings,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10703,Dylan Lazaroff,Powell River Kings,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10698,Eduard Gubeladze,Powell River Kings,D,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8451,Eliot Compton,Okotoks Oilers,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9854,Ethan Merner,West Kelowna Warriors,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10061,Garrett Trench,Trail Smoke Eaters,F,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8397,Grady Sluggett,Victoria Grizzlies,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10563,Gustav Bryvall,Alberni Valley Bulldogs,D,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9935,Hendrix Whittle,West Kelowna Warriors,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8106,Jack Bakker,Coquitlam Express,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10493,Jackson Meier,Alberni Valley Bulldogs,D,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10257,Jacob Adamsson,Sherwood Park Crusaders,D,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10257,Jacob Adamsson,Sherwood Park Crusaders,RD,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9726,Jacob McNally,Surrey Eagles,D,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9645,Jasper Fellbaum,Langley Rivermen,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9645,Jasper Fellbaum,Victoria Grizzlies,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10701,Jaxson Pawlenchuck,Sherwood Park Crusaders,D,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10699,Jonas Eide Pettersen,Trail Smoke Eaters,D,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10429,Josh Kaufman,Blackfalds Bulldogs,F,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10377,Josh Weir,West Kelowna Warriors,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10287,Kaden West,Surrey Eagles,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10677,Keenan Canales,Coquitlam Express,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10357,Kees de Jager,Salmon Arm Silverbacks,D,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10449,Kieran Wilson,Victoria Grizzlies,D,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10083,Koltin Herfst,Chilliwack Chiefs,D,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10083,Koltin Herfst,Chilliwack Chiefs,RD,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10320,Kristian Lacelle,Cowichan Valley Capitals,F,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10166,Lenny Giger,Nanaimo Clippers,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10113,Liam Keith,Powell River Kings,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9016,Logan Barnes,Surrey Eagles,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9096,Logan Broten,Sherwood Park Crusaders,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9096,Logan Broten,Sherwood Park Crusaders,LD,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9698,Logan Duncan,Cowichan Valley Capitals,F,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10380,Lucas Fenrich,Langley Rivermen,D,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10691,Lucas Lekakis,Powell River Kings,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10505,Luka Romaniak,Chilliwack Chiefs,D,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10199,Luke Christensen,Trail Smoke Eaters,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10199,Luke Christensen,Victoria Grizzlies,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9790,Luke Storr,Salmon Arm Silverbacks,D,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10700,Luke Zienchuk,Brooks Bandits,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10532,Malik Belleus,Trail Smoke Eaters,D,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10343,Mans Agren,Sherwood Park Crusaders,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10343,Mans Agren,Sherwood Park Crusaders,RD,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9478,Marco Depedrina,Langley Rivermen,LW,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10675,Markuss Ansons,Trail Smoke Eaters,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10675,Markuss Ansons,Victoria Grizzlies,D,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10394,Matt Hines,Coquitlam Express,D,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9960,Matteo Kokkas,Coquitlam Express,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10359,Matthew Dabrowski,Salmon Arm Silverbacks,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10521,Matthew Tarlton,Coquitlam Express,D,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10521,Matthew Tarlton,Coquitlam Express,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10521,Matthew Tarlton,Cranbrook Bucks,D,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9671,Nate Barclay,Nanaimo Clippers,D,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10512,Nathan Landriault,Powell River Kings,F,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10647,Nick Voisey,Sherwood Park Crusaders,LD,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9522,Nickolas Kovich,Chilliwack Chiefs,F,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10640,Nico McDonald,Surrey Eagles,F,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10676,Noah Cook,Surrey Eagles,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10306,Nolan Blankstein,Prince George Spruce Kings,RD,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9901,Owen Baker,Powell River Kings,RD,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10697,Phoenix Cahill,Brooks Bandits,D,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10688,Rayen Hache,Surrey Eagles,D,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10573,Remington Chisholm,Brooks Bandits,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10192,Rhys Wilcox,Nanaimo Clippers,F,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10237,Ryan Tserlin,Powell River Kings,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10203,Ryker Swanson,Chilliwack Chiefs,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10178,Sam Hard,Okotoks Oilers,D,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10702,Semyon Nizhinikov,Coquitlam Express,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10288,Tanner Halley,Surrey Eagles,D,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10649,Tate Collins,Victoria Grizzlies,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8998,Taylor Curtis,Blackfalds Bulldogs,D,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8998,Taylor Curtis,Surrey Eagles,D,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10632,Toma Dalton,Victoria Grizzlies,F,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10339,Tomasz Marsden,Brooks Bandits,F,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10581,Tommy Miller,West Kelowna Warriors,D,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10046,Trace Anderson,Langley Rivermen,RW,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10286,Treyce Pavlic,Surrey Eagles,F,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10668,Troy Zajac,Alberni Valley Bulldogs,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10668,Troy Zajac,Powell River Kings,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10367,Tucker Harris,West Kelowna Warriors,C,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10616,Tucker Lyndaker,Sherwood Park Crusaders,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10616,Tucker Lyndaker,Sherwood Park Crusaders,RW,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10348,Ville Oksanen,Salmon Arm Silverbacks,F,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10570,Vilton Ferdfelt,Sherwood Park Crusaders,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10129,Wade Wallace,Chilliwack Chiefs,D,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10692,Westin Churchill,Powell River Kings,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10571,William Odelius,Sherwood Park Crusaders,D,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
