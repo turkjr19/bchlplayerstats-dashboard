@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101b2d">
+  <title>BCHL Player Analytics</title>
+  <style>
+    :root{--navy:#101b2d;--navy2:#172943;--ice:#eaf1f8;--paper:#f4f7fb;--ink:#172337;--muted:#718096;--line:#e2e9f1;--blue:#3478c7;--red:#a52e4b;--gold:#d9a441;--white:#fff;--shadow:0 12px 32px rgba(16,27,45,.08)}
+    *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.5 Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+    .top{background:linear-gradient(120deg,var(--navy),#203b5d);color:#fff;padding:34px 22px 56px}.wrap{max-width:1080px;margin:0 auto}.eyebrow{text-transform:uppercase;letter-spacing:.16em;font-size:11px;font-weight:800;color:#b9cbe0}.top h1{font-size:clamp(27px,4vw,40px);line-height:1.1;margin:8px 0}.top p{margin:8px 0 0;color:#d1dceb}.main{max-width:1080px;margin:-30px auto 50px;padding:0 20px}.panel,.stat{background:#fff;border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow)}.search-panel{padding:20px 22px;margin-bottom:18px}.search-panel label{display:block;font-size:12px;text-transform:uppercase;letter-spacing:.09em;font-weight:800;color:var(--muted);margin-bottom:8px}.search-row{display:flex;gap:10px;align-items:center}.search-row input{width:100%;padding:14px 15px;border:1px solid #cbd6e3;border-radius:10px;font-size:16px;color:var(--ink);outline:none}.search-row input:focus{border-color:var(--blue);box-shadow:0 0 0 3px #3478c71c}.status{font-size:12px;color:var(--muted);margin-top:9px}.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:18px}.stat{padding:19px 21px}.stat .label{font-size:12px;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);font-weight:800}.stat .value{font-size:34px;font-weight:800;line-height:1.15;margin-top:7px;font-variant-numeric:tabular-nums}.stat.goals .value{color:var(--red)}.stat.assists .value{color:var(--blue)}.stat.points .value{color:var(--navy)}.profile{padding:22px;margin-bottom:18px;display:flex;align-items:center;justify-content:space-between;gap:16px}.profile h2{font-size:24px;margin:0 0 3px}.profile .meta{color:var(--muted)}.pill{display:inline-block;background:var(--ice);color:#244364;border-radius:99px;padding:6px 11px;font-size:12px;font-weight:800;margin-left:6px}.grid{display:grid;grid-template-columns:1.15fr .85fr;gap:18px}.panel{padding:22px}.panel h3{margin:0 0 4px;font-size:17px}.sub{font-size:13px;color:var(--muted);margin:0 0 18px}.table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}.table th{text-align:right;color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.08em;padding:10px 8px;border-bottom:1px solid var(--line)}.table th:first-child,.table td:first-child{text-align:left}.table td{text-align:right;padding:12px 8px;border-bottom:1px solid #edf1f5}.table tr:last-child td{border-bottom:0;font-weight:800}.bars{display:flex;flex-direction:column;gap:15px}.bar-row .bar-head{display:flex;justify-content:space-between;gap:12px;font-size:13px;margin-bottom:6px}.bar-head strong{font-variant-numeric:tabular-nums}.track{height:13px;background:#edf2f7;border-radius:99px;overflow:hidden;display:flex}.goalbar{background:var(--red);height:100%}.assistbar{background:var(--blue);height:100%}.legend{display:flex;gap:16px;color:var(--muted);font-size:12px;margin-top:16px}.dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px}.dot.g{background:var(--red)}.dot.a{background:var(--blue)}.empty{padding:42px 20px;text-align:center;color:var(--muted)}.empty strong{display:block;color:var(--ink);font-size:18px;margin-bottom:5px}.footer{text-align:center;color:var(--muted);font-size:12px;padding:24px}.error{color:#9c2c40}.hidden{display:none!important}
+    @media(max-width:760px){.grid{grid-template-columns:1fr}.stats{gap:9px}.stat{padding:15px}.stat .value{font-size:28px}.profile{align-items:flex-start;flex-direction:column}.panel{padding:17px}.search-panel{padding:17px}}
+    @media(max-width:420px){.stats{grid-template-columns:1fr}.stat{display:flex;align-items:center;justify-content:space-between}.stat .value{margin:0}.table th,.table td{padding:10px 5px;font-size:12px}}
+  </style>
+</head>
+<body>
+  <header class="top"><div class="wrap"><div class="eyebrow">Hockey analytics · BCHL</div><h1>Player Statistics</h1><p>Explore scoring production by game score state.</p></div></header>
+  <main class="main">
+    <section class="panel search-panel">
+      <label for="playerSearch">Find a player</label>
+      <div class="search-row"><input id="playerSearch" list="playerList" placeholder="Start typing a player name…" autocomplete="off"><datalist id="playerList"></datalist></div>
+      <div id="loadStatus" class="status">Loading the latest player statistics…</div>
+    </section>
+    <div id="dashboard" class="hidden">
+      <section class="profile panel"><div><h2 id="playerName"></h2><div class="meta" id="playerMeta"></div></div><div><span class="pill" id="positionPill"></span></div></section>
+      <section class="stats">
+        <div class="stat goals"><div class="label">Goals</div><div class="value" id="goalsValue">—</div></div>
+        <div class="stat assists"><div class="label">Assists</div><div class="value" id="assistsValue">—</div></div>
+        <div class="stat points"><div class="label">Points</div><div class="value" id="pointsValue">—</div></div>
+      </section>
+      <section class="grid">
+        <div class="panel"><h3>Scoring by score state</h3><p class="sub">Goals and assists recorded in each situation.</p>
+          <table class="table"><thead><tr><th>Score state</th><th>Goals</th><th>Assists</th><th>Points</th></tr></thead><tbody id="stateTable"></tbody></table>
+        </div>
+        <div class="panel"><h3>Point distribution</h3><p class="sub">Goals and assists across score states.</p><div id="stateBars" class="bars"></div><div class="legend"><span><i class="dot g"></i>Goals</span><span><i class="dot a"></i>Assists</span></div></div>
+      </section>
+    </div>
+    <section id="emptyState" class="panel empty"><strong>Select a player to get started</strong>Choose a name from the list or type part of a player's name.</section>
+    <div class="footer">BCHL Player Analytics · Data refreshed automatically from the BCHL statistics pipeline</div>
+  </main>
+<script>
+(() => {
+  const csvUrl = './player_state_summary.csv';
+  const states = [
+    {label:'Down 2+', goal:'Down 2+_Goal', assist:'Down 2+_Assist'},
+    {label:'Down 1', goal:'Down 1_Goal', assist:'Down 1_Assist'},
+    {label:'Tied', goal:'Tied_Goal', assist:'Tied_Assist'},
+    {label:'Up 1', goal:'Up 1_Goal', assist:'Up 1_Assist'},
+    {label:'Up 2+', goal:'Up 2+_Goal', assist:'Up 2+_Assist'}
+  ];
+  const $ = id => document.getElementById(id);
+  let players = [];
+  function parseCSV(text) {
+    const rows=[]; let row=[], field='', quoted=false;
+    for(let i=0;i<text.length;i++){
+      const c=text[i], next=text[i+1];
+      if(quoted){ if(c==='"' && next==='"'){field+='"';i++;} else if(c==='"'){quoted=false;} else field+=c; }
+      else if(c==='"') quoted=true;
+      else if(c===','){row.push(field);field='';}
+      else if(c==='\n'){row.push(field);rows.push(row);row=[];field='';}
+      else if(c!=='\r') field+=c;
+    }
+    if(field.length || row.length){row.push(field);rows.push(row);}
+    const headers=rows.shift() || [];
+    return rows.filter(r=>r.length && r.some(v=>v.trim()!=='')).map(r=>Object.fromEntries(headers.map((h,i)=>[h,r[i]??''])));
+  }
+  const n = value => Number(value)||0;
+  function showPlayer(player){
+    if(!player)return;
+    $('dashboard').classList.remove('hidden'); $('emptyState').classList.add('hidden');
+    $('playerName').textContent=player.player_name;
+    $('playerMeta').textContent=player.team || 'Team not listed';
+    $('positionPill').textContent=player.position || 'Position not listed';
+    $('goalsValue').textContent=n(player.total_goals);
+    $('assistsValue').textContent=n(player.total_assists);
+    $('pointsValue').textContent=n(player.total_points);
+    const values=states.map(s=>({label:s.label,goals:n(player[s.goal]),assists:n(player[s.assist])}));
+    $('stateTable').innerHTML=values.map(v=>`<tr><td>${v.label}</td><td>${v.goals}</td><td>${v.assists}</td><td>${v.goals+v.assists}</td></tr>`).join('') + `<tr><td>Total</td><td>${n(player.total_goals)}</td><td>${n(player.total_assists)}</td><td>${n(player.total_points)}</td></tr>`;
+    const max=Math.max(1,...values.map(v=>v.goals+v.assists));
+    $('stateBars').innerHTML=values.map(v=>{const total=v.goals+v.assists;const gw=100*v.goals/max;const aw=100*v.assists/max;return `<div class="bar-row"><div class="bar-head"><span>${v.label}</span><strong>${total} pts</strong></div><div class="track" aria-label="${v.goals} goals and ${v.assists} assists"><div class="goalbar" style="width:${gw}%"></div><div class="assistbar" style="width:${aw}%"></div></div></div>`;}).join('');
+  }
+  function choose(value){const exact=players.find(p=>p.player_name.toLowerCase()===value.trim().toLowerCase());if(exact)showPlayer(exact);}
+  $('playerSearch').addEventListener('change',e=>choose(e.target.value));
+  $('playerSearch').addEventListener('input',e=>{const match=players.find(p=>p.player_name.toLowerCase()===e.target.value.trim().toLowerCase());if(match)showPlayer(match);});
+  fetch(csvUrl+'?v='+Date.now()).then(r=>{if(!r.ok)throw new Error('Could not load player_state_summary.csv ('+r.status+').');return r.text();}).then(text=>{
+    players=parseCSV(text).sort((a,b)=>a.player_name.localeCompare(b.player_name));
+    if(!players.length)throw new Error('The player summary file contains no player records.');
+    $('playerList').innerHTML=players.map(p=>`<option value="${String(p.player_name).replace(/&/g,'&amp;').replace(/"/g,'&quot;')}"></option>`).join('');
+    $('loadStatus').textContent=`Loaded ${players.length} players · Choose a player or type a name.`;
+    $('playerSearch').placeholder='Search '+players.length+' players…';
+  }).catch(err=>{$('loadStatus').textContent=err.message+' The CSV will appear here after the first successful data publish.';$('loadStatus').classList.add('error');});
+})();
+</script>
+</body>
+</html>
